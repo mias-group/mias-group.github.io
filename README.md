@@ -1,12 +1,4 @@
-<html>
-<head>
-<style>
-p.main {
-  text-align: justify;
-}
-</style>
-</head>
-<body>
+
 
 
 # Selected Publications
