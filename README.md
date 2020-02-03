@@ -1,5 +1,3 @@
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "publication.md#top" >}})
-
 # ruirangerfan.com
 ----
 ****
@@ -51,7 +49,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 <iframe width="500" height="281" src="https://www.youtube.com/embed/pypPI7fsctg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ----
 
-
+[<i class="fa fa-level-up"> Back to top</i>]
 ## Services
 ----
 ****
@@ -72,7 +70,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 * Volunteer of the Autonomous Systems initiative (ASI)
 
 
-
+[<i class="fa fa-level-up"> Back to top</i>]
 ## Lectures & Tutorials
 ----
 ****
@@ -81,7 +79,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 
 
-
+[<i class="fa fa-level-up"> Back to top</i>]
 ## Awards
 ----
 ****
