@@ -9,5 +9,9 @@ menu:
   Newsletter: '/newsletter'
   About: '/about'
 
+date_format: dddd MMMM Do YYYY
+time_format: H:mm ZZ
+
+
 theme: jekyll-theme-minimal
 exclude_generator: ['tag', 'category']
