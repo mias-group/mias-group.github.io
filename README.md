@@ -51,7 +51,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 # Services
 ----
 ****
-* Innovation Program Chair of 2019 IEEE International Conference on Imaging Systems and Techniques (IST)
+* [Innovation Program Chair of 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
 * Reviewer of IEEE Transactions on Image Processing (TIP)
 * Reviewer of IEEE Transactions on Cybernetics (TCYB)
 * Reviewer of IEEE Transactions on Intelligent Transportation Systems (TITS)
