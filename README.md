@@ -21,7 +21,7 @@
 [1] **Fan, R.**, Jiao, J., Pan, J., Huang, H., Shen, S. and Liu, M., 2019. Real-Time Dense Stereo Embedded in A UAV for Road Inspection. In Proceedings of the _**IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops**_. [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Fan_Real-Time_Dense_Stereo_Embedded_in_a_UAV_for_Road_Inspection_CVPRW_2019_paper.pdf)][[video](https://youtu.be/_-YmlxojVMI)][[datasets](https://drive.google.com/file/d/1lEA-wawzHpsNdeIIKriaiHKZu2zyFSGP/view?usp=sharing)]
 
 
-<div style="text-align: justify">News: this road surface 3D reconstruction system has been reported by over ten international media agencies, such as VentureBeat, Diamandis, Drobots Company, UAS Vision, Import AI, Impact Lab, US Breaking News, PCNewsBuzz and Engineering 360. (07/07/2019)</div>br>
+<div style="text-align: justify">News: this road surface 3D reconstruction system has been reported by over ten international media agencies, such as VentureBeat, Diamandis, Drobots Company, UAS Vision, Import AI, Impact Lab, US Breaking News, PCNewsBuzz and Engineering 360. (07/07/2019)</div><br>
 <iframe width="500" height="281" src="https://www.youtube.com/embed/_-YmlxojVMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
