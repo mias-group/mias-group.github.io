@@ -1,7 +1,7 @@
 
+# Rui Fan (Ranger)
 
-
-## Selected Publications
+# Selected Publications
 ----
 ****
 ## * Pothole Detection Based on Disparity Transformation and Road Surface Modeling
