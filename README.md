@@ -13,9 +13,8 @@
 
 
 ![Image](images/pothole_detection_work_flow.png)<br>
-
 ----
-
+****
 ## * Real-Time Dense Stereo Embedded in A UAV for Road Inspection
 
 <div style="text-align: justify">In this project, we designed an efficient and accurate dense stereo vision system and embedded it in a DJI Matrice 100 drone for road inspection [1]. We mounted a ZED stereo camera on the drone to capture stereo road images. These images were then processed on an NVIDIA Jetson TX2 GPU. We created three datasets including 11368 pairs of stereo images. Please kindly cite our paper when using our datasets in your research. </div><br>
