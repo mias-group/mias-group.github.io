@@ -19,6 +19,12 @@
 
 # Lectures & Tutorials
 
+<p><video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls
+ preload="auto" width="640" height="480" data-setup='{}'>
+  <source src="https://www.youtube.com/watch?v=_-YmlxojVMI&t=2s" type='video/mp4'>
+</video></p>
+
+
 <div class="embed-container">
   <iframe
       src="https://www.youtube.com/watch?v=_-YmlxojVMI&t=2s{{ include.id }}"
