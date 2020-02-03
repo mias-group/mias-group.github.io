@@ -13,7 +13,9 @@
 
 
 ![Image](images/pothole_detection_work_flow.png)<br>
+{% include footer.html %}
 -----------------------------------------------------
+
 
 ## * Real-Time Dense Stereo Embedded in A UAV for Road Inspection
 
