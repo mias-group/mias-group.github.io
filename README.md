@@ -12,6 +12,8 @@
 
 [2] **Fan, R.**, Bocus, M. J., and Dahnoun, N., 2018. A novel disparity transformation algorithm for road segmentation. _**Information Processing Letters**_, 140, pp.18-24. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020019018301583)][[arxiv](https://arxiv.org/pdf/1808.02837.pdf)]
 
+* Rui Fan, Ming Liu, Road Damage Detection Based on Unsupervised Disparity Map Segmentation, IEEE Transactions on Intelligent Transportation Systems (T-ITS), pp. 1-6, November 2019. {{< pdf "/papers/fan2019road.pdf" >}} {{< bib "/papers/fan2019road_damage.bib" >}}
+
 
 ![Image](images/pothole_detection_work_flow.png)<br>
 ----
