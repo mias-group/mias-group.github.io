@@ -28,7 +28,7 @@
 <div class="embed-container">
   <iframe
       src="https://www.youtube.com/watch?v=_-YmlxojVMI&t=2s{{ include.id }}"
-      width="500"
+      width="400"
       height="281"
       frameborder="0"
       webkitallowfullscreen
