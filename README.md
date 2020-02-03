@@ -29,12 +29,12 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 ## * Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
 
-<div style="text-align: justify">In this project, we designed two robust multiple lane detection algorithms [1], [2] based on dense vanishing point estimation. The vanishing points were estimated from disparity images using dynamic programming [3]. The datasets we used are available on the [KITTI](http://www.cvlibs.net/datasets/kitti/). We will be happy if you cite us: </div><br>
-[1] Ozgunalp, U., Fan, R., Ai, X. and Dahnoun, N., 2016. Multiple lane detection algorithm based on novel dense vanishing point estimation. IEEE Transactions on Intelligent Transportation Systems, 18(3), pp.621-632. [paper][video]
+<div style="text-align: justify">In this project, we designed two robust multiple lane detection algorithms [1], [2] based on dense vanishing point estimation. The vanishing points were estimated from disparity images using dynamic programming [3]. The datasets we used are available on the KITTI. We will be happy if you cite us: </div><br>
+[1] Ozgunalp, U., **Fan, R.**, Ai, X. and Dahnoun, N., 2016. Multiple lane detection algorithm based on novel dense vanishing point estimation. _**IEEE Transactions on Intelligent Transportation Systems**_, 18(3), pp.621-632. [[paper](https://ieeexplore.ieee.org/abstract/document/7534770/)][[video](https://www.youtube.com/watch?v=s0RiXMsgUc8)]
 
-[2] Fan, R. and Dahnoun, N., 2018. Real-time stereo vision-based lane detection system. Measurement Science and Technology, 29(7), p.074005. [arxiv][paper][video]
+[2] **Fan, R.** and Dahnoun, N., 2018. Real-time stereo vision-based lane detection system. _**Measurement Science and Technology**_, 29(7), p.074005. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/aac163/meta)][[arxiv](https://arxiv.org/pdf/1807.02752.pdf)][[video](https://www.youtube.com/watch?v=45nu_9yE0Ws&list=PLSsD3AXVRPMWuMjiJqAm42Jlo8Zd2QG65)]
 
-[3] Jiao, J., Fan, R., Ma, H., Liu, M., 2019 Using DP Towards A Shortest Path Problem-Related Application, International Conference on Robotics and Automation (ICRA), May 20-24,  Montreal, Canada. [paper][arxiv][video]
+[3] Jiao, J., **Fan, R.**, Ma, H., Liu, M., 2019 Using DP Towards A Shortest Path Problem-Related Application, _**International Conference on Robotics and Automation (ICRA)**_, May 20-24,  Montreal, Canada. [[paper](https://ieeexplore.ieee.org/abstract/document/8793603/)][[arxiv](https://arxiv.org/pdf/1903.02765.pdf)][[video](https://www.youtube.com/watch?v=BiqJxLh_xdY)]
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/fgriUdy1kv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ----
