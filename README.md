@@ -1,10 +1,10 @@
 
 # Rui Fan (Ranger)
 
-# Selected Publications
+## Selected Publications
 ----
 ****
-## * Pothole Detection Based on Disparity Transformation and Road Surface Modeling
+### * Pothole Detection Based on Disparity Transformation and Road Surface Modeling
 
 
 <div style="text-align: justify">In this project, we developed a robust road pothole detection algorithm [1] based on novel disparity transformation [2] and road surface modeling. Firstly, we utilized our previously published disparity estimation algorithm (PT-SRP) to acquire dense road disparity maps and reconstruct the 3D road geometry. The original disparity maps are transformed to better distinguish between damaged and undamaged road areas. Then, the disparities in the undamaged road areas are modeled by a quadratic surface. By comparing the difference between the actual and modeled disparity maps, the potholes can be successfully detected. We created three datasets including 67 pairs of stereo road images using a ZED stereo camera. Please kindly cite our papers when using our datasets in your research. </div><br>
@@ -16,7 +16,7 @@
 ![Image](images/pothole_detection_work_flow.png)<br>
 ----
 ****
-## * Real-Time Dense Stereo Embedded in A UAV for Road Inspection
+### * Real-Time Dense Stereo Embedded in A UAV for Road Inspection
 
 <div style="text-align: justify">In this project, we designed an efficient and accurate dense stereo vision system and embedded it in a DJI Matrice 100 drone for road inspection [1]. We mounted a ZED stereo camera on the drone to capture stereo road images. These images were then processed on an NVIDIA Jetson TX2 GPU. We created three datasets including 11368 pairs of stereo images. Please kindly cite our paper when using our datasets in your research. </div><br>
 [1] **Fan, R.**, Jiao, J., Pan, J., Huang, H., Shen, S. and Liu, M., 2019. Real-Time Dense Stereo Embedded in A UAV for Road Inspection. In Proceedings of the _**IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops**_. [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Fan_Real-Time_Dense_Stereo_Embedded_in_a_UAV_for_Road_Inspection_CVPRW_2019_paper.pdf)][[video](https://youtu.be/_-YmlxojVMI)][[datasets](https://drive.google.com/file/d/1lEA-wawzHpsNdeIIKriaiHKZu2zyFSGP/view?usp=sharing)]
@@ -27,7 +27,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 ----
 
 
-## * Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
+### * Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
 
 <div style="text-align: justify">In this project, we proposed three robust multiple lane detection algorithms [1], [2] based on dense vanishing point estimation. Such vanishing points were estimated from dense disparity images using dynamic programming and least squares fitting [3]. The datasets we used are available on the KITTI benchmark. We will be happy if you cite us: </div><br>
 [1] Ozgunalp, U., **Fan, R.**, Ai, X. and Dahnoun, N., 2016. Multiple lane detection algorithm based on novel dense vanishing point estimation. _**IEEE Transactions on Intelligent Transportation Systems**_, 18(3), pp.621-632. [[paper](https://ieeexplore.ieee.org/abstract/document/7534770/)][[video](https://www.youtube.com/watch?v=s0RiXMsgUc8)]
@@ -39,7 +39,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 <iframe width="500" height="281" src="https://www.youtube.com/embed/fgriUdy1kv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ----
 
-## * Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation
+### * Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation
 
 <div style="text-align: justify">In this paper, we presented a dense subpixel disparity map estimation algorithm for road surface 3D reconstruction [1]. We utilized a ZED stereo camera to create three datasets and made them publicly available for the research purpose. The datasets include 91 pairs of stereo road images. The videos recording our experimental results can be found on my YouTube playlists. Please kindly cite our paper when you use our datasets in your research.  </div><br>
 [1] **Fan, R.**, Ai, X. and Dahnoun, N., 2018. Road surface 3D reconstruction based on dense subpixel disparity map estimation. _**IEEE Transactions on Image Processing**_, 27(6), pp.3025-3035. [[paper](https://ieeexplore.ieee.org/abstract/document/8300645)][[arxiv](https://arxiv.org/pdf/1807.01874.pdf)][[video](https://www.youtube.com/channel/UC1DgZTYD19jaLFzgtNMznDg/playlists?view_as=subscriber)][[datasets](https://github.com/ruirangerfan/road_surface_3d_reconstruction_datasets)]
@@ -48,7 +48,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 ----
 
 
-# Services
+## Services
 ----
 ****
 * [Innovation Program Chair of 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
@@ -69,7 +69,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 
 
-# Lectures & Tutorials
+## Lectures & Tutorials
 ----
 ****
 * Lecture for the [short course on deep learning & computer vision for autonomous systems in Thessaloniki, Greece.](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/) [26/08/2019-27/08/2019]
@@ -78,7 +78,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 
 
-# Awards
+## Awards
 ----
 ****
 ![Image](images/robio_best_paper_finalist.jpg)<br>
