@@ -1,4 +1,4 @@
-# Rui Fan (Ranger)
+# ruirangerfan.com
 ----
 ****
 ## Selected Publications
