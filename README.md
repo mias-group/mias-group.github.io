@@ -18,12 +18,10 @@
 ## * Real-Time Dense Stereo Embedded in A UAV for Road Inspection
 
 <div style="text-align: justify">In this project, we designed an efficient and accurate dense stereo vision system and embedded it in a DJI Matrice 100 drone for road inspection [1]. We mounted a ZED stereo camera on the drone to capture stereo road images. These images were then processed on an NVIDIA Jetson TX2 GPU. We created three datasets including 11368 pairs of stereo images. Please kindly cite our paper when using our datasets in your research. </div><br>
+[1] **Fan, R.**, Jiao, J., Pan, J., Huang, H., Shen, S. and Liu, M., 2019. Real-Time Dense Stereo Embedded in A UAV for Road Inspection. In Proceedings of the _**IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops**_. [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Fan_Real-Time_Dense_Stereo_Embedded_in_a_UAV_for_Road_Inspection_CVPRW_2019_paper.pdf)][[video](https://youtu.be/_-YmlxojVMI)][[datasets](https://drive.google.com/file/d/1lEA-wawzHpsNdeIIKriaiHKZu2zyFSGP/view?usp=sharing)]
 
-[1] **Fan, R.**, Jiao, J., Pan, J., Huang, H., Shen, S. and Liu, M., 2019. Real-Time Dense Stereo Embedded in A UAV for Road Inspection. In Proceedings of the _**IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops**_. [paper][arxiv][video]
 
-
-<div style="text-align: justify">News: this road surface 3D reconstruction system has been reported by over ten international media agencies, such as VentureBeat, Diamandis, Drobots Company, UAS Vision, Import AI, Impact Lab, US Breaking News, PCNewsBuzz and Engineering 360. (07/07/2019)</div>
-
+<div style="text-align: justify">News: this road surface 3D reconstruction system has been reported by over ten international media agencies, such as VentureBeat, Diamandis, Drobots Company, UAS Vision, Import AI, Impact Lab, US Breaking News, PCNewsBuzz and Engineering 360. (07/07/2019)</div>br>
 <iframe width="500" height="281" src="https://www.youtube.com/embed/_-YmlxojVMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
