@@ -1,5 +1,3 @@
-Email: rui.fan@ieee.org
-
 # Selected Publications
 
 
