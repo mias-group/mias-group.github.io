@@ -49,12 +49,16 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 
 # Lectures & Tutorials
+[Lecture for the short course on deep learning & computer vision for autonomous systems in Thessaloniki, Greece.](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/) [26/08/2019-27/08/2019]
+
+
+
+
 
 # Awards
 ----
 ****
 ![Image](images/robio_best_paper_finalist.jpg)<br>
-----
 ![Image](images/IST2016.png)<br>
 
 
