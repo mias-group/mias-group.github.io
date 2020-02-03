@@ -41,8 +41,8 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 ## * Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation
 
-<div style="text-align: justify">In this project, we proposed a dense subpixel disparity map estimation algorithm for road surface 3D reconstruction [1]. The sensor we used is a ZED stereo camera from StereoLabs. We created three datasets including 91 pairs of stereo road images. The videos recording our experimental results can be found on my YouTube playlists. Please kindly cite our paper when you use our datasets in your research.  </div><br>
-[1] Fan, R., Ai, X. and Dahnoun, N., 2018. Road surface 3D reconstruction based on dense subpixel disparity map estimation. IEEE Transactions on Image Processing, 27(6), pp.3025-3035. [paper][arxiv][video]
+<div style="text-align: justify">In this paper, we presented a dense subpixel disparity map estimation algorithm for road surface 3D reconstruction [1]. We utilized a ZED stereo camera to create three datasets and made them publicly available for the research purpose. The datasets include 91 pairs of stereo road images. The videos recording our experimental results can be found on my YouTube playlists. Please kindly cite our paper when you use our datasets in your research.  </div><br>
+[1] **Fan, R.**, Ai, X. and Dahnoun, N., 2018. Road surface 3D reconstruction based on dense subpixel disparity map estimation. _**IEEE Transactions on Image Processing**_, 27(6), pp.3025-3035. [[paper](https://ieeexplore.ieee.org/abstract/document/8300645)][[arxiv](https://arxiv.org/pdf/1807.01874.pdf)][[video](https://www.youtube.com/channel/UC1DgZTYD19jaLFzgtNMznDg/playlists?view_as=subscriber)]
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/pypPI7fsctg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ----
