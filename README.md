@@ -3,7 +3,6 @@
 ****
 ## Selected Publications
 ----
-****
 ### * Pothole Detection Based on Disparity Transformation and Road Surface Modeling
 
 
@@ -17,7 +16,6 @@
 
 ![Image](images/pothole_detection_work_flow.png)<br>
 ----
-****
 ### * Real-Time Dense Stereo Embedded in A UAV for Road Inspection
 
 <div style="text-align: justify">In this project, we designed an efficient and accurate dense stereo vision system and embedded it in a DJI Matrice 100 drone for road inspection [1]. We mounted a ZED stereo camera on the drone to capture stereo road images. These images were then processed on an NVIDIA Jetson TX2 GPU. We created three datasets including 11368 pairs of stereo images. Please kindly cite our paper when using our datasets in your research. </div><br>
@@ -52,7 +50,6 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## Services
 ----
-****
 * [Innovation Program Chair of 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
 * Reviewer of IEEE Transactions on Image Processing (TIP)
 * Reviewer of IEEE Transactions on Cybernetics (TCYB)
@@ -73,17 +70,14 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## Lectures & Tutorials
 ----
-****
 * Lecture for the [short course on deep learning & computer vision for autonomous systems in Thessaloniki, Greece.](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/) [26/08/2019-27/08/2019]
-
-
-
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## Awards
 ----
-****
 ![Image](images/robio_best_paper_finalist.jpg)<br>
 ![Image](images/IST2016.png)<br>
+
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 
 
