@@ -18,18 +18,3 @@ time_format: H:mm ZZ
 
 theme: jekyll-theme-minimal
 exclude_generator: ['tag', 'category']
-
-markdown:
-  render:
-    html: true # escape HTML content
-    xhtmlOut: false # produce fully XHTML compliant code
-    breaks: false # don't produce `<br>` on line break
-    linkify: true # returns text links as HTML links
-    typographer: true # substitute common elements like (c)
-  anchors:
-    level: 2
-    permalink: false
-  plugins:
-    - markdown-it-footnote
-    - markdown-it-sup
-    - markdown-it-sub
