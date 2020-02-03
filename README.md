@@ -22,6 +22,7 @@
 
 
 <div style="text-align: justify">News: this road surface 3D reconstruction system has been reported by over ten international media agencies, such as VentureBeat, Diamandis, Drobots Company, UAS Vision, Import AI, Impact Lab, US Breaking News, PCNewsBuzz and Engineering 360. (07/07/2019)</div>
+
 <iframe width="500" height="281" src="https://www.youtube.com/embed/_-YmlxojVMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
