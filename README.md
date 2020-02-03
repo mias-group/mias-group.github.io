@@ -20,7 +20,15 @@
 # Lectures & Tutorials
 
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=_-YmlxojVMI&t=2s" frameborder="2"></iframe>
-
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/watch?v=_-YmlxojVMI&t=2s{{ include.id }}"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 
 ## Publication
 
