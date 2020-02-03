@@ -1,11 +1,7 @@
 ## About
 
-Rui FAN (Ranger) was born in Inner Mongolia in 1993. He received his BSc degree in Control Science and Engineering from the Harbin Institute of Technology in 03/July/2015. Between 14/Sep/2015 and 26/June/2018, Rui worked towards his Ph.D degree with [Prof. John G. Rarity](https://en.wikipedia.org/wiki/John_Rarity) and Dr. Naim Dahnoun in Visual Information Laboratory (VI-Lab), Department of Electrical and Electronic Engineering at the [University of Bristol](https://www.bristol.ac.uk/). 
+Rui FAN (Ranger) was born in Inner Mongolia in 1993. He received his BSc degree in Control Science and Engineering from the Harbin Institute of Technology in 03/July/2015. Between 14/Sep/2015 and 26/June/2018, Rui worked towards his Ph.D degree with [Prof. John G. Rarity](https://en.wikipedia.org/wiki/John_Rarity) and [Dr. Naim Dahnoun](https://research-information.bris.ac.uk/en/persons/naim-dahnoun(b0315f4f-9fdc-4002-9202-dbe2fb679818).html) in [Visual Information Laboratory (VI-Lab)](https://vilab.blogs.bristol.ac.uk/), Department of Electrical and Electronic Engineering at [the University of Bristol](https://www.bristol.ac.uk/). From 09/July/2018 to 07/Feb/2020, Rui worked as a Postdoctoral Research Associate with [Prof. Ming Liu](https://www.ece.ust.hk/eelium) in [HKUST Robotics Institute (RI)](http://ri.ust.hk/) at [the Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/home). 
 
-
-You can use the [editor on GitHub](https://github.com/ruirangerfan/ruirangerfan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Publication
 
