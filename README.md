@@ -6,7 +6,7 @@ In this project, we developed a robust road pothole detection algorithm [1] base
 
 [1] Fan, R., Ozgunalp, U., Hosking, B., Liu, M., and Pitas, I., 2020. Pothole Detection Based on Disparity Transformation and Road Surface Modeling. IEEE Transactions on Image Processing, 29(1), pp.897-908. [paper][arxiv]
 
-[2] Fan, R., Bocus, M. J., and Dahnoun, N., 2018. A novel disparity transformation algorithm for road segmentation. Information Processing Letters, 140, pp.18-24. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020019018301583)[[arxiv]](https://arxiv.org/pdf/1808.02837.pdf)
+[2] Fan, R., Bocus, M. J., and Dahnoun, N., 2018. A novel disparity transformation algorithm for road segmentation. Information Processing Letters, 140, pp.18-24. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020019018301583)][[arxiv](https://arxiv.org/pdf/1808.02837.pdf)]
 
 
 ![Image](images/pothole_detection_work_flow.png)
