@@ -12,7 +12,7 @@
 [2] **Fan, R.**, Bocus, M. J., and Dahnoun, N., 2018. A novel disparity transformation algorithm for road segmentation. _**Information Processing Letters**_, 140, pp.18-24. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020019018301583)][[arxiv](https://arxiv.org/pdf/1808.02837.pdf)]
 
 
-![Image](images/pothole_detection_work_flow.png)
+![Image](images/pothole_detection_work_flow.png)<br>
 
 
 ## * Real-Time Dense Stereo Embedded in A UAV for Road Inspection
