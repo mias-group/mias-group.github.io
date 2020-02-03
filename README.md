@@ -29,7 +29,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 ## * Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
 
-<div style="text-align: justify">In this project, we designed two robust multiple lane detection algorithms [1], [2] based on dense vanishing point estimation. The vanishing points were estimated from disparity images using dynamic programming [3]. The datasets we used are available on the KITTI. We will be happy if you cite us: </div><br>
+<div style="text-align: justify">In this project, we proposed two robust multiple lane detection algorithms [1], [2] based on dense vanishing point estimation. Such vanishing points were estimated from dense disparity images using dynamic programming and least squares fitting [3]. The datasets we used are available on the KITTI benchmark. We will be happy if you cite us: </div><br>
 [1] Ozgunalp, U., **Fan, R.**, Ai, X. and Dahnoun, N., 2016. Multiple lane detection algorithm based on novel dense vanishing point estimation. _**IEEE Transactions on Intelligent Transportation Systems**_, 18(3), pp.621-632. [[paper](https://ieeexplore.ieee.org/abstract/document/7534770/)][[video](https://www.youtube.com/watch?v=s0RiXMsgUc8)]
 
 [2] **Fan, R.** and Dahnoun, N., 2018. Real-time stereo vision-based lane detection system. _**Measurement Science and Technology**_, 29(7), p.074005. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/aac163/meta)][[arxiv](https://arxiv.org/pdf/1807.02752.pdf)][[video](https://www.youtube.com/watch?v=45nu_9yE0Ws&list=PLSsD3AXVRPMWuMjiJqAm42Jlo8Zd2QG65)]
