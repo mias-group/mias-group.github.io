@@ -30,17 +30,22 @@
 
 ## * Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
 
-<div style="text-align: justify">In this project, we designed two robust multiple lane detection algorithms [1], [2] based on dense vanishing point estimation. The vanishing points were estimated from disparity maps using dynamic programming [3]. The datasets we used are available on the KITTI website. We will be happy if you cite us: </div><br>
+<div style="text-align: justify">In this project, we designed two robust multiple lane detection algorithms [1], [2] based on dense vanishing point estimation. The vanishing points were estimated from disparity images using dynamic programming [3]. The datasets we used are available on the [KITTI](http://www.cvlibs.net/datasets/kitti/). We will be happy if you cite us: </div><br>
 [1] Ozgunalp, U., Fan, R., Ai, X. and Dahnoun, N., 2016. Multiple lane detection algorithm based on novel dense vanishing point estimation. IEEE Transactions on Intelligent Transportation Systems, 18(3), pp.621-632. [paper][video]
 
 [2] Fan, R. and Dahnoun, N., 2018. Real-time stereo vision-based lane detection system. Measurement Science and Technology, 29(7), p.074005. [arxiv][paper][video]
 
-[3] Jiao, J., Fan, R., Ma, H., Liu, M., 2019 Using DP Towards A Shortest Path Problem-Related Application, International Conference on Robotics and Automation (ICRA), May 20-24,  Montreal, Canada. [arxiv][video]
-
-
-<div style="text-align: justify">News: this road surface 3D reconstruction system has been reported by over ten international media agencies, such as VentureBeat, Diamandis, Drobots Company, UAS Vision, Import AI, Impact Lab, US Breaking News, PCNewsBuzz and Engineering 360. (07/07/2019)</div><br>
+[3] Jiao, J., Fan, R., Ma, H., Liu, M., 2019 Using DP Towards A Shortest Path Problem-Related Application, International Conference on Robotics and Automation (ICRA), May 20-24,  Montreal, Canada. [paper][arxiv][video]
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/fgriUdy1kv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+----
+
+## * Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation
+
+<div style="text-align: justify">In this project, we proposed a dense subpixel disparity map estimation algorithm for road surface 3D reconstruction [1]. The sensor we used is a ZED stereo camera from StereoLabs. We created three datasets including 91 pairs of stereo road images. The videos recording our experimental results can be found on my YouTube playlists. Please kindly cite our paper when you use our datasets in your research.  </div><br>
+[1] Fan, R., Ai, X. and Dahnoun, N., 2018. Road surface 3D reconstruction based on dense subpixel disparity map estimation. IEEE Transactions on Image Processing, 27(6), pp.3025-3035. [paper][arxiv][video]
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/pypPI7fsctg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ----
 
 
