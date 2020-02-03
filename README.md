@@ -14,6 +14,7 @@
 
 
 ![Image](images/pothole_detection_work_flow.png)<br>
+
 ----
 ****
 
