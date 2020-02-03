@@ -1,4 +1,4 @@
-## About
+# About
 
 Rui FAN (Ranger) was born in Inner Mongolia in 1993. He received his BSc degree in Control Science and Engineering from [the Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology) in 03/July/2015. Between 14/Sep/2015 and 26/June/2018, Rui worked towards his Ph.D. degree with [Prof. John G. Rarity](https://en.wikipedia.org/wiki/John_Rarity) and [Dr. Naim Dahnoun](https://research-information.bris.ac.uk/en/persons/naim-dahnoun(b0315f4f-9fdc-4002-9202-dbe2fb679818).html) in [Visual Information Laboratory (VI-Lab)](https://vilab.blogs.bristol.ac.uk/), Department of Electrical and Electronic Engineering at [the University of Bristol](https://www.bristol.ac.uk/). From 09/July/2018 to 07/Feb/2020, Rui worked as a Postdoctoral Research Associate with [Prof. Ming Liu](https://www.ece.ust.hk/eelium) in [HKUST Robotics Institute (RI)](http://ri.ust.hk/) at [the Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/home). Since 14/Feb/2020, Rui has been working as a Postdoctoral Researcher with [Prof. Linda Zangwill](https://profiles.ucsd.edu/linda.zangwill) and [Prof. David Kriegman](https://cseweb.ucsd.edu/~kriegman/) in [UCSD Health Sciences](https://health.ucsd.edu/Pages/default.aspx) as well as [the Jacobs School of Engineering](http://jacobsschool.ucsd.edu/) at [the University of California, San Diego (UCSD)](https://ucsd.edu/).  
 
@@ -6,10 +6,10 @@ Rui's research interests include computer vision, image/signal processing and ma
 
 Email: rui.fan@ieee.org
 
-## Selected Publications
+# Selected Publications
 
 
-## Lectures & Tutorials
+# Lectures & Tutorials
 
 
 
