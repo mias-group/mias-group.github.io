@@ -19,7 +19,7 @@
 
 # Lectures & Tutorials
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=_-YmlxojVMI&t=2s" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=_-YmlxojVMI&t=2s" frameborder="2" allowfullscreen></iframe>
 
 
 ## Publication
