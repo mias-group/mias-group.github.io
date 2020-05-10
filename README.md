@@ -1,7 +1,7 @@
 # ruirangerfan.com
 ----
 ****
-## Selected Publications
+## Featured Publications
 ----
 ### * Pothole Detection Based on Disparity Transformation and Road Surface Modeling
 
@@ -54,12 +54,17 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 * Reviewer of IEEE Transactions on Intelligent Vehicles (TIV)
 * Reviewer of IEEE Transactions on Industrial Informatics (TII)
 * Reviewer of IEEE Signal Processing Magazine (SPM)
+* Reviewer of Ophthalmology
 * Reviewer of 2018 European Conference on Computer Vision (ECCV)
+* Reviewer of 2020 British Machine Vision Conference (BMVC)
 * Reviewer of 2019 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) workshop
 * Reviewer of 2019 International Conference on Intelligent Robotics and Systems (IROS)
+* Reviewer of 2020 International Conference on Intelligent Robotics and Systems (IROS)
 * Reviewer of 2020 IEEE International Conference on Robotics and Automation (ICRA)
 * Reviewer of 2019 IEEE Intelligent Transportation Systems Conference (ITSC)
+* Reviewer of 2020 IEEE Intelligent Transportation Systems Conference (ITSC)
 * Reviewer of 2019 IEEE Intelligent Vehicles Symposium (IV)
+* Reviewer of 2020 IEEE Intelligent Vehicles Symposium (IV)
 * Reviewer of 2019 IEEE European Signal Processing Conference (EUSIPCO)
 * Volunteer of the Autonomous Systems initiative (ASI)
 
