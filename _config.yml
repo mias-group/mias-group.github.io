@@ -5,7 +5,8 @@ description: <b><font size="+1">About</font></b><br><div align="justify"> Rui FA
 
 theme: jekyll-theme-minimal
 
-exclude_generator: ['tag', 'category']
-
 github:
   is_project_page: false
+
+exclude_generator: ['tag', 'category']
+
