@@ -75,7 +75,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## <a name="lectures_tutorials_seminars">Lectures, Tutorials & Seminars</a>
 ----
-* Lecture for the [short course on deep learning & computer vision for autonomous systems in Thessaloniki, Greece.](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/) [08/26/2019-08/27/2019]
+* Lectures for the [short course on deep learning & computer vision for autonomous systems, in Thessaloniki, Greece, ](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/) [08/26/2019-08/27/2019], invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow).
 * Seminar ["We are driving on the road"](http://www.hitsz.edu.cn/article/view/id-65956.html) at the Harbin Institute of Technology, Shenzhen [09/18/2019]
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
