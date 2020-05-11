@@ -4,7 +4,7 @@
 
 ----
 ****
-## Featured Publications
+## <a name="featured_publications">Featured Publications</a>
 ----
 ### * Pothole Detection Based on Disparity Transformation and Road Surface Modeling
 
@@ -48,7 +48,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
-## Services
+## <a name="services">Services</a>
 ----
 * [Innovation Program Chair of 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
 * Reviewer of IEEE Transactions on Image Processing (TIP)
@@ -73,12 +73,12 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
-## <a name="test">Lectures, Tutorials & Seminars </a>
+## <a name="lectures_tutorials_seminars">Lectures, Tutorials & Seminars</a>
 ----
 * Lecture for the [short course on deep learning & computer vision for autonomous systems in Thessaloniki, Greece.](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/) [26/08/2019-27/08/2019]
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
-## Awards
+## <a name="awards">Awards</a>Awards 
 ----
 ![Image](images/robio_best_paper_finalist.jpg)<br/>
 
