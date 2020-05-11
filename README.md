@@ -1,4 +1,7 @@
-# ruirangerfan.com
+# Rui FAN (Ranger)
+
+Rui FAN was born in Inner Mongolia in 1993. He received his BEng degree in Automation (Control Science and Engineering) from the Harbin Institute of Technology (HIT) in July 2015. 
+
 ----
 ****
 ## Featured Publications
