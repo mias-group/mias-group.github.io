@@ -1,6 +1,3 @@
-github:
-  is_project_page: false
-
 # ruirangerfan.com
 ----
 ****
