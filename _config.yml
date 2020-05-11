@@ -7,4 +7,5 @@ theme: jekyll-theme-minimal
 
 exclude_generator: ['tag', 'category']
 
-is_project_page: false
+github:
+  is_project_page: false
