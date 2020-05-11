@@ -45,7 +45,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 
 <div style="text-align: justify">In this paper, we presented a dense subpixel disparity map estimation algorithm for road surface 3D reconstruction [1]. The main contributions include a perspective transformation algorithm as well as an efficient disparity estimation and refinement algorithm. We utilized a ZED stereo camera to create three datasets and made them publicly available for the research purposes. The datasets include 91 pairs of stereo road images. The videos recording our experimental results can be found on my YouTube playlists. Please kindly cite our paper when using our datasets in your research.  </div><br>
-[1] **Fan, R.**, Ai, X. and Dahnoun, N., 2018. Road surface 3D reconstruction based on dense subpixel disparity map estimation. _**IEEE Transactions on Image Processing**_, 27(6), pp.3025-3035. [[paper](https://ieeexplore.ieee.org/abstract/document/8300645)][[arxiv](https://arxiv.org/pdf/1807.01874.pdf)][[video](https://www.youtube.com/channel/UC1DgZTYD19jaLFzgtNMznDg/playlists?view_as=subscriber)][[datasets](https://github.com/ruirangerfan/road_surface_3d_reconstruction_datasets)]
+[1] **Fan, R.**, Ai, X. and Dahnoun, N., 2018. Road surface 3D reconstruction based on dense subpixel disparity map estimation. _**IEEE Transactions on Image Processing**_, 27(6), pp.3025-3035. [[paper](https://ieeexplore.ieee.org/abstract/document/8300645)][[arxiv](https://arxiv.org/pdf/1807.01874.pdf)][[video](https://www.youtube.com/watch?v=pypPI7fsctg&list=PLSsD3AXVRPMXuK1PM-5OlhItgNEClCKB3)][[datasets](https://github.com/ruirangerfan/road_surface_3d_reconstruction_datasets)]
 
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
