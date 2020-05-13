@@ -82,8 +82,8 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## <a name="awards">Awards</a>
 ----
-<p align="center"><img src="images/robio_best_paper_finalist.jpg" width="500"></p><br/>
-<p align="center"><img src="images/IST2016.png" width="500"></p><br>
+<p align="center"><img src="images/robio_best_paper_finalist.jpg" width="500"></p>
+<p align="center"><img src="images/IST2016.png" width="500"></p>
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 
