@@ -41,7 +41,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 ----
 ### * Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation
 
-<iframe width="500" height="281" src="https://www.youtube.com/embed/pypPI7fsctg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/pypPI7fsctg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
 <div style="text-align: justify">In this paper, we presented a dense subpixel disparity map estimation algorithm for road surface 3D reconstruction [1]. The main contributions include a perspective transformation algorithm as well as an efficient disparity estimation and refinement algorithm. We utilized a ZED stereo camera to create three datasets and made them publicly available for the research purposes. The datasets include 91 pairs of stereo road images. The videos recording our experimental results can be found on my YouTube playlists. Please kindly cite our paper when using our datasets in your research.  </div><br>
