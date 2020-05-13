@@ -9,6 +9,8 @@ Emails: [rui.fan@ieee.org](mailto:rui.fan@ieee.org)
 ----
 ### * Pothole Detection Based on Disparity Transformation and Road Surface Modeling
 
+<img src="images/pothole_detection_work_flow.png" width="100" height="100"><br>
+
 ![](images/pothole_detection_work_flow.png =250x250)<br>
 
 <div style="text-align: justify">In this project, we developed a robust road pothole detection algorithm [1] based on novel disparity transformation [2] and road surface modeling. Firstly, we utilized our previously published disparity estimation algorithm (PT-SRP) to acquire dense road disparity maps and reconstruct the 3D road geometry. The original disparity maps were transformed to better distinguish between damaged and undamaged road areas. Then, the disparities in the undamaged road areas were modeled by a quadratic surface. By comparing the difference between the actual and modeled disparity maps, the potholes can be successfully detected. We created three datasets including 67 pairs of stereo road images using a ZED stereo camera. Please kindly cite our papers when using our datasets in your research. </div><br>
