@@ -67,7 +67,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 * Reviewer of the 2020 International Conference on Intelligent Robotics and Systems (IROS)
 * Reviewer of the 2020 IEEE International Conference on Robotics and Automation (ICRA)
 * Reviewer of the 2019 IEEE Intelligent Transportation Systems Conference (ITSC)
-* Reviewer of the 2020 IEEE Intelligent Transportation Systems Conference (ITSC)
+* [Reviewer of the 2020 IEEE Intelligent Transportation Systems Conference (ITSC)](https://www.ieee-itsc2020.org/wp-content/uploads/2020/05/List-of-Reviewers.pdf)
 * Reviewer of the 2019 IEEE Intelligent Vehicles Symposium (IV)
 * Reviewer of the 2020 IEEE Intelligent Vehicles Symposium (IV)
 * Reviewer of the 2019 IEEE European Signal Processing Conference (EUSIPCO)
