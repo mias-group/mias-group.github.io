@@ -7,6 +7,21 @@ Email: [rui.fan@ieee.org](mailto:rui.fan@ieee.org)
 ****
 ## <a name="featured_publications">Featured Publications</a>
 ----
+
+### * ATG-PVD: Ticketing Parking Violations on a Drone
+
+<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/byfa7-fT4j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<div style="text-align: justify">This project was supported by ATG Robotics, my co-founded company in Hangzhou, China. In this project, we proposed a novel suspect-and-investigate framework, which can be easily embedded in a drone for automated parking violation detection (PVD). Our proposed framework consists of: 1) SwiftFlow, an efficient and accurate convolutional neural network for unsupervised optical flow estimation; 2) Flow-RCNN, a flow-guided CNN for car detection and classification; and 3) an illegally parked car (IPC) candidate investigation module developed based on visual SLAM. Our dataset (4754 images for training and 4397 images for testing) is also publicly available for research purposes. Please kindly cite our papers when using our datasets in your research. </div><br>
+[1] Wang, H.\*, Liu, Y.\*, Huang H.\*, Pan Y.\*, Yu W., Jiang J., Lyu D., Bocus J. M., Liu M., Pitas I., and **Fan R.**, 2020. ATG-PVD: Ticketing Parking Violations on A Drone. _In Proceedings of the **European Conference on Computer Vision (ECCV) Workshops**_. [[paper]()][[video](https://www.youtube.com/watch?v=byfa7-fT4j4&t=5s)][[dataset](https://sites.google.com/view/atg-pvd)]   *These authors contributed equally to this work. 
+  
+  
+  In this project, we proposed a novel freespace detection approach, referred to as SNE-RoadSeg [1], based on data-fusion semantic driving scene segmentation. Our main contributions include: 1) surface normal estimator (SNE), a novel module capable of inferring surface normal information from dense disparity (or inverse depth) images with high accuracy and efficiency; 2) RoadSeg, a data-fusion CNN architecture capable of extracting and fusing features from both RGB images and the inferred surface normal information; and 3) Ready-to-Drive (R2D), a large-scale synthetic freespace detection dataset (containing 11430 pairs of stereo images and their corresponding depth images and semantic segmentation ground truth), collected under different illumination and weather conditions. </div><br>
+[1] **Fan, R.**\*, Wang, H.*, Cai, P., and Liu, M., 2020. SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection. _In Proceedings of the **European Conference on Computer Vision (ECCV)**_. [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf)][[code](https://sites.google.com/view/sne-roadseg/code?authuser=0)][[video](https://www.youtube.com/watch?v=wWrZhDuh6xc)][[dataset](https://sites.google.com/view/sne-roadseg/dataset?authuser=0)][[results](http://m.cvlibs.net/datasets/kitti/eval_road_detail.php?result=bed2008b97d76d5defb08a5930eadbe461483dd1)]   *These authors contributed equally to this work. 
+
+----
+
+
 ### * SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/wWrZhDuh6xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
