@@ -16,6 +16,15 @@ Email: [rui.fan@ieee.org](mailto:rui.fan@ieee.org)
 [1] Wang, H.\*, Liu, Y.\*, Huang H.\*, Pan Y.\*, Yu W., Jiang J., Lyu D., Bocus J. M., Liu M., Pitas I., and **Fan R.**, 2020. ATG-PVD: Ticketing Parking Violations on A Drone. _In Proceedings of the **European Conference on Computer Vision (ECCV) Workshops**_. [[paper](https://www.techrxiv.org/articles/preprint/ATG-PVD_Ticketing_Parking_Violations_on_A_Drone/12839156)][[video](https://www.youtube.com/watch?v=byfa7-fT4j4&t=5s)][[dataset](https://sites.google.com/view/atg-pvd/dataset?authuser=0)]   *These authors contributed equally to this work. 
 
 ----
+### * We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation
+
+<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/iOEkkyfEpBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<div style="text-align: justify">In this project, we first proposed a novel attention aggregation (AA) framework, which takes the advantages of different types of attention modules. In addition, we develop an effective training set augmentation technique based on adversarial domain adaptation, where the synthetic road RGB images and transformed road disparity (or inverse depth) images are generated to enhance the training of semantic segmentation networks. Our dataset and source code are publicly available for research purposes. Please kindly cite our paper when using our dataset or source code in your research.</div><br>
+[1] **Fan R.**\*, Wang, H.\*, Bocus J. M., and Liu M., 2020. We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation. _In Proceedings of the **European Conference on Computer Vision (ECCV) Workshops**_. [[paper](https://arxiv.org/pdf/2008.06840.pdf)][[dataset](https://sites.google.com/view/pothole-600/dataset?authuser=0)][[code](https://github.com/hlwang1124/AAFramework)]   *These authors contributed equally to this work.  
+
+
+----
 ### * SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/wWrZhDuh6xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
