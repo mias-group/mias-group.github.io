@@ -111,7 +111,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 ## <a name="awards">Awards</a>
 ----
 * Best Paper Finalist: Road Curb Detection Using A Novel Tensor Voting Algorithm. _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_ 
-* Best Student Paper: Faster-than-real-time linear lane detection implementation using soc dsp TMS320C6678. _2016 IEEE International Conference on Imaging Systems and Techniques (IST)_
+* Best Student Paper: Faster-than-real-time linear lane detection implementation using SoC DSP TMS320C6678. _2016 IEEE International Conference on Imaging Systems and Techniques (IST)_
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 
