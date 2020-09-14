@@ -77,7 +77,8 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## <a name="services">Services</a>
 ----
-* [Innovation Program Chair of the 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
+* General Chair of [the Autonomous Vehicle Vision (AVVision) 2021 workshop](https://avvision.xyz/), in conjuction with WACV 2021. 
+* Innovation Program Chair of [the 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
 * Reviewer of the IEEE Transactions on Image Processing (TIP)
 * Reviewer of the IEEE Transactions on Cybernetics (TCYB)
 * Reviewer of the IEEE Transactions on Intelligent Transportation Systems (TITS)
