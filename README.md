@@ -90,7 +90,11 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 ----
 * General Chair of [the Autonomous Vehicle Vision (AVVision) 2021 workshop](https://avvision.xyz/), in conjuction with WACV 2021. 
 * Innovation Program Chair of [the 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
-* Reviewer of the IEEE Transactions on Image Processing (TIP)
+* Journal Reviewers: the IEEE Transactions on Image Processing (TIP), the IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Intelligent Transportation Systems (TITS), the IEEE Transactions on Intelligent Vehicles (TIV), the IEEE Transactions on Industrial Informatics (TII), the IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH), the IEEE Signal Processing Magazine (SPM), the IEEE Robotics and Automation Letters (RAL), Ophthalmology, Scientfic Reports.
+* Conference Reviewers: the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2018/2020 European Conference on Computer Vision (ECCV), 2021 Winter Conference on Applications of Computer Vision (WACV), 2020 British Machine Vision Conference (BMVC), 2019 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshop, 2020 International Conference on Robotics and Automation (ICRA), 2019/2020 International Conference on Intelligent Robotics and Systems (IROS), 2019 IEEE European Signal Processing Conference (EUSIPCO), 2019/2020 IEEE Intelligent Transportation Systems Conference (ITSC), 2019/2020 IEEE Intelligent Vehicles Symposium (IV), and 2019 IEEE Conference on Robotics and Biomimetics (ROBIO).
+
+
+<!-- * Reviewer of the IEEE Transactions on Image Processing (TIP)
 * Reviewer of the IEEE Transactions on Cybernetics (TCYB)
 * Reviewer of the IEEE Transactions on Intelligent Transportation Systems (TITS)
 * Reviewer of the IEEE Transactions on Intelligent Vehicles (TIV)
@@ -98,8 +102,8 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 * Reviewer of the IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH)
 * Reviewer of the IEEE Signal Processing Magazine (SPM)
 * Reviewer of the IEEE Robotics and Automation Letters (RAL)
-* Reviewer of Ophthalmology
-* Program Committee member of the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21). 
+* Reviewer of Ophthalmology -->
+<!-- * Program Committee member of the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21). 
 * Reviewer of the 2018 European Conference on Computer Vision (ECCV)
 * Reviewer of the 2020 European Conference on Computer Vision (ECCV)
 * Reviewer of the 2020 British Machine Vision Conference (BMVC)
@@ -111,7 +115,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 * [Reviewer of the 2020 IEEE Intelligent Transportation Systems Conference (ITSC)](https://www.ieee-itsc2020.org/wp-content/uploads/2020/05/List-of-Reviewers.pdf)
 * Reviewer of the 2019 IEEE Intelligent Vehicles Symposium (IV)
 * Reviewer of the 2020 IEEE Intelligent Vehicles Symposium (IV)
-* Reviewer of the 2019 IEEE European Signal Processing Conference (EUSIPCO)
+* Reviewer of the 2019 IEEE European Signal Processing Conference (EUSIPCO) -->
 
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
