@@ -10,7 +10,7 @@ Email: [rui(dot)fan(at)ieee(dot)org](mailto:rui.fan@ieee.org)
 
 ### * CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation
 
-<p align="center"><iframe width="560" height="281" src="https://www.youtube.com/embed/LzL7QZhwFjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/LzL7QZhwFjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <div style="text-align: justify">In this project, we propose CoT-AMFlow, an unsupervised optical flow estimation approach. In terms of the network architecture, we develop an adaptive modulation network that employs two novel module types, flow modulation modules (FMMs) and cost volume modulation modules (CMMs), to remove outliers in challenging regions. As for the training paradigm, we adopt a co-teaching strategy, where two networks simultaneously teach each other about challenging regions to further improve accuracy. Experimental results on the MPI Sintel, KITTI Flow and Middlebury Flow benchmarks demonstrate that our CoT-AMFlow outperforms all other state-of-the-art unsupervised approaches, while still running in real time. </div><br>
 [1] Wang, H., **Fan R.**, and Liu M., 2020. CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation. _In **Conference on Robot Learning (CoRL)**_. [[paper]()][[video](https://www.youtube.com/watch?v=LzL7QZhwFjE)][[code](https://github.com/hlwang1124/CoT-AMFlow)]   \***Acceptance rate: 34%**. 
