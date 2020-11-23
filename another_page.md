@@ -124,14 +124,14 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 * Lectures for the [short course on deep learning & computer vision for autonomous systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [08/26/2019-08/27/2019]
 * Seminar ["We are driving on the road"](http://www.hitsz.edu.cn/article/view/id-65956.html) at the Harbin Institute of Technology, Shenzhen. [09/18/2019] 
 --> 
-<!-- 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+
+<!-- [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## <a name="awards">Awards</a>
 ----
 * Best Paper Finalist: Road Curb Detection Using A Novel Tensor Voting Algorithm. _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_ 
 * Best Student Paper: Faster-than-real-time linear lane detection implementation using SoC DSP TMS320C6678. _2016 IEEE International Conference on Imaging Systems and Techniques (IST)_
 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}}) -->
 
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
@@ -140,5 +140,5 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 * Best Paper Finalist: Road Curb Detection Using A Novel Tensor Voting Algorithm. _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_ 
 * Best Student Paper: Faster-than-real-time linear lane detection implementation using SoC DSP TMS320C6678. _2016 IEEE International Conference on Imaging Systems and Techniques (IST)_
 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}}) -->
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 
