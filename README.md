@@ -1,4 +1,4 @@
-## About
+<!-- ## About
 
 <div style="text-align: justify">Rui (Ranger) FAN was born in Inner Mongolia, China in 1993. He received his BEng degree in Automation (Control Science and Engineering) from <a href="https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology">the Harbin Institute of Technology (HIT)</a> in July 2015. Between September 2015 and June 2018, Rui worked towards his Ph.D. degree with <a href="https://en.wikipedia.org/wiki/John_Rarity">Prof. John G. Rarity</a> and <a href="https://research-information.bris.ac.uk/en/persons/naim-dahnoun(b0315f4f-9fdc-4002-9202-dbe2fb679818).html">Dr. Naim Dahnoun</a> in <a href="https://vilab.blogs.bristol.ac.uk/">the Visual Information Lab</a> in the Department of Electrical & Electronic Engineering at <a href="https://www.bristol.ac.uk/">the University of Bristol (UoB)</a>. From July 2018 to February 2020, Rui worked as a Research Associate (Postdoc) with <a href="https://www.ece.ust.hk/eelium">Prof. Ming Liu</a> in <a href="https://www.ram-lab.com/">the Robotics and Multi-Perception Laboratory (RAM-Lab)</a> in <a href="http://ri.ust.hk/">the Robotics Institute (RI)</a> at <a href="https://www.ust.hk/home">the Hong Kong University of Science and Technology (HKUST)</a>. Since February 2020, Rui has been working as a Postdoc Fellow with <a href="https://profiles.ucsd.edu/linda.zangwill">Prof. Linda Zangwill</a> and <a href="https://cseweb.ucsd.edu/~kriegman/">Prof. David J. Kriegman</a> in <a href="https://shileyeye.ucsd.edu/">the Department of Ophthalmology</a> as well as <a href="https://cse.ucsd.edu/">the Department of Computer Science and Engineering</a> at <a href="https://ucsd.edu/">the University of California, San Diego (UCSD)</a>. Furthermore, Rui is also the co-founder and chief scientist of ATG Robotics. Rui’s research interests include computer vision, image/signal processing, and deep learning. </div><br />
 Email: [rui(dot)fan(at)ieee(dot)org](mailto:rui.fan@ieee.org)
@@ -118,7 +118,7 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 * Reviewer of the 2019 IEEE European Signal Processing Conference (EUSIPCO) -->
 
 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+<!-- [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## <a name="lectures_tutorials_seminars">Lectures, Tutorials & Seminars</a>
 ----
 * Lectures for the [short course on deep learning & computer vision for autonomous systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [08/26/2019-08/27/2019]
@@ -132,4 +132,4 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 
-
+ --> 
