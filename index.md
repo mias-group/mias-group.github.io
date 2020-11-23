@@ -133,10 +133,10 @@ News: this road surface 3D reconstruction system has been reported by over ten i
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 
 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+<!-- [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 ## <a name="news">News</a>
 ----
 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}}) -->
 
 
