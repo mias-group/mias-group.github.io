@@ -590,7 +590,7 @@ This embedded road surface 3D reconstruction system has been reported by over te
 * &#8226; Seminar ["We Are Driving on the Road"](http://www.hitsz.edu.cn/article/view/id-65956.html) at the Harbin Institute of Technology, Shenzhen. [September 18, 2019]
 
 
-* &#8226; Seminar ["Computer Vision for Intellignet Road Condition Assessment"](http://automation.sjtu.edu.cn/Show.aspx?info_lb=610&info_id=2731&flag=101) at Shanghai Jiao tong University. [June 3, 2019]
+* &#8226; Seminar ["Computer Vision & Machine Learning for Intelligent Road Condition Assessment"](http://automation.sjtu.edu.cn/Show.aspx?info_lb=610&info_id=2731&flag=101) at Shanghai Jiao tong University. [June 3, 2019]
 
 
 
