@@ -128,7 +128,7 @@
 
 .highlight { background-color: #f8f8f8; }
 
-body { background-color: #fff; padding: 30px; font: 12px/1.45 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 500; font-family: "Georgia"; font-size: 11.6pt; }
+body { background-color: #fff; padding: 28px; font: 12px/1.45 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 500; font-family: "Georgia"; font-size: 11.6pt; }
 
 h1, h2, h3, h4, h5, h6 { color: #222; margin: 0 0 20px; }
 
@@ -136,7 +136,7 @@ p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.0; }
 
-h1 { font-size: 21px; text-align: left; }
+h1 { font-size: 20px; text-align: left; }
 
 h2 { color: #393939; }
 
