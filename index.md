@@ -496,14 +496,14 @@ Ozgunalp, U., <strong>Fan, R.</strong>, Ai, X. and Dahnoun, N.
 
 
 
-#### &#8226; CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation
+#### &#8226; CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation [published on CoRL'20]
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/LzL7QZhwFjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
 
 
 
-
-#### &#8226; ATG-PVD: Ticketing Parking Violations on a Drone
+ 
+#### &#8226; ATG-PVD: Ticketing Parking Violations on a Drone [published on ECCV'20 Workshop]
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/byfa7-fT4j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
 ----
 
@@ -511,12 +511,12 @@ Ozgunalp, U., <strong>Fan, R.</strong>, Ai, X. and Dahnoun, N.
 
 
 
-#### &#8226; SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
+#### &#8226; SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection [published on ECCV'20]
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/wWrZhDuh6xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
 
 
-#### &#8226; Real-Time Dense Stereo Embedded in a UAV for Road Inspection
+#### &#8226; Real-Time Dense Stereo Embedded in a UAV for Road Inspection [published on CVPR'19 Workshop]
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/_-YmlxojVMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 Our embedded road surface 3D reconstruction system has been reported by over ten international media agencies, including [VentureBeat](https://venturebeat.com/2019/04/15/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [Diamandis](https://www.diamandis.com/blog/abundance-insider-apr-19th-2019), [Drobots Company](https://drobotscompany.com/drones-detect-road-damage-drone-jobs-future/), [UAS Vision](https://www.uasvision.com/2019/04/17/researchers-use-ai-drones-to-detect-road-damage/), [Import AI](https://jack-clark.net/2019/04/22/import-ai-143-predicting-car-accident-risks-by-looking-at-the-houses-people-live-in-why-data-matters-as-much-as-compute-and-using-capsule-networks-to-generate-synthetic-data/), [Impact Lab](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [US Breaking News](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [PCNewsBuzz](https://www.pcnewsbuzz.com/2019/04/16/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), and [Engineering 360](https://insights.globalspec.com/article/11651/team-developing-ai-enabled-drones-for-pothole-crack-detection). (July 07, 2019)<br>
 
@@ -527,7 +527,7 @@ Our embedded road surface 3D reconstruction system has been reported by over ten
 
 
 
-#### &#8226; Using DP Towards a Shortest Path Problem-Related Application [published on ICRA 2019]
+#### &#8226; Using DP Towards a Shortest Path Problem-Related Application [published on ICRA'19]
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/BiqJxLh_xdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
 
@@ -546,7 +546,7 @@ Our embedded road surface 3D reconstruction system has been reported by over ten
 
 
 
-#### &#8226; Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
+#### &#8226; Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation [published on IEEE Trans on Intelligent Transportation Systems]
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/s0RiXMsgUc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
