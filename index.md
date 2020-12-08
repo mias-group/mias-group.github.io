@@ -635,12 +635,12 @@ This embedded road surface 3D reconstruction system has been reported by over te
 
 #### News 
 
-* &#8226; [超低空5G网络资源全自主巡检数字化服务商“反重力智能”获千万级天使轮融资](https://www.toutiao.com/i6893008382131700238/?tt_from=weixin&utm_campaign=client_shar&timestamp=1604903886&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&use_new_style=1&req_id=2020110914380601014502601825087E88&group_id=6893008382131700238), **今日头条**. [November 09, 2020]
-* &#8226; [独家5G网联无人机基站巡检服务供应商“反重力智能”获千万级天使轮融资 东方嘉富领投](https://dy.163.com/article/FR08ET4K0550B1DU.html), **网易**. [November 09, 2020]
+* &#8226; [超低空5G网络资源全自主巡检数字化服务商“反重力智能”获千万级天使轮融资](https://www.toutiao.com/i6893008382131700238/?tt_from=weixin&utm_campaign=client_shar&timestamp=1604903886&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&use_new_style=1&req_id=2020110914380601014502601825087E88&group_id=6893008382131700238), 今日头条. [November 09, 2020]
+* &#8226; [独家5G网联无人机基站巡检服务供应商“反重力智能”获千万级天使轮融资 东方嘉富领投](https://dy.163.com/article/FR08ET4K0550B1DU.html), 网易. [November 09, 2020]
 * &#8226; [“反重力智能”获千万级天使轮融资](http://finance.eastmoney.com/a/202011091693971762.html), 东方财富网. [November 09, 2020]
 * &#8226; [反重力智能完成1000万人民币天使轮融资](https://m.ebrun.com/409485.html), 亿邦动力网. [November 09, 2020]
-* &#8226; [“反重力智能”获千万级天使轮融资](https://finance.sina.cn/fund/sm/2020-11-09/detail-iiznezxs0922375.d.html), **新浪财经**. [November 09, 2020]
-* &#8226; [超低空5G网络资源全自主巡检数字化服务商“反重力智能”获千万级天使轮融资](https://36kr.com/newsflashes/960619562023297), **36氪**. [November 08, 2020]
-* &#8226; [独家电报\|超低空5G网络资源全自主巡检数字化服务开创者“反重力智能”获千万级天使轮融资](https://www.chinastarmarket.cn/detail/615008), **科创板日报**. [November 08, 2020]
+* &#8226; [“反重力智能”获千万级天使轮融资](https://finance.sina.cn/fund/sm/2020-11-09/detail-iiznezxs0922375.d.html), 新浪财经. [November 09, 2020]
+* &#8226; [超低空5G网络资源全自主巡检数字化服务商“反重力智能”获千万级天使轮融资](https://36kr.com/newsflashes/960619562023297), 36氪. [November 08, 2020]
+* &#8226; [独家电报\|超低空5G网络资源全自主巡检数字化服务开创者“反重力智能”获千万级天使轮融资](https://www.chinastarmarket.cn/detail/615008), 科创板日报. [November 08, 2020]
 * &#8226; [反重力智能完成1000万人民币天使轮融资](https://flipboard.com/article/1000/a-cruYQJL9TIClupNTWkOppA%3Aa%3A1736797059-fb00f46046%2Februn.com), FLIPBOARD. [November 08, 2020]
 
