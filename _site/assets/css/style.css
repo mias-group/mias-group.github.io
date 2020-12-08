@@ -219,4 +219,4 @@ ul { list-style: none; }
 @media print, screen and (max-width: 720px) { body { padding: 15px; }
   .downloads { width: 99%; }
   .downloads li, .downloads li + li + li { width: 33%; } }
-@media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
+@media print { body { padding: 0.4in; font-size: 3pt; color: #444; } }
