@@ -496,14 +496,14 @@ Ozgunalp, U., <strong>Fan, R.</strong>, Ai, X. and Dahnoun, N.
 
 
 
-#### CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation
+#### &#8226; CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/LzL7QZhwFjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
 
 
 
 
-#### ATG-PVD: Ticketing Parking Violations on a Drone
+#### &#8226; ATG-PVD: Ticketing Parking Violations on a Drone
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/byfa7-fT4j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
 ----
 
@@ -511,14 +511,14 @@ Ozgunalp, U., <strong>Fan, R.</strong>, Ai, X. and Dahnoun, N.
 
 
 
-#### SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
+#### &#8226; SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/wWrZhDuh6xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
 
 
-#### Real-Time Dense Stereo Embedded in A UAV for Road Inspection
+#### &#8226; Real-Time Dense Stereo Embedded in a UAV for Road Inspection
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/_-YmlxojVMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-This embedded road surface 3D reconstruction system has been reported by over ten international media agencies, including [VentureBeat](https://venturebeat.com/2019/04/15/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [Diamandis](https://www.diamandis.com/blog/abundance-insider-apr-19th-2019), [Drobots Company](https://drobotscompany.com/drones-detect-road-damage-drone-jobs-future/), [UAS Vision](https://www.uasvision.com/2019/04/17/researchers-use-ai-drones-to-detect-road-damage/), [Import AI](https://jack-clark.net/2019/04/22/import-ai-143-predicting-car-accident-risks-by-looking-at-the-houses-people-live-in-why-data-matters-as-much-as-compute-and-using-capsule-networks-to-generate-synthetic-data/), [Impact Lab](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [US Breaking News](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [PCNewsBuzz](https://www.pcnewsbuzz.com/2019/04/16/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/) and [Engineering 360](https://insights.globalspec.com/article/11651/team-developing-ai-enabled-drones-for-pothole-crack-detection). (July 07, 2019)<br>
+Our embedded road surface 3D reconstruction system has been reported by over ten international media agencies, including [VentureBeat](https://venturebeat.com/2019/04/15/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [Diamandis](https://www.diamandis.com/blog/abundance-insider-apr-19th-2019), [Drobots Company](https://drobotscompany.com/drones-detect-road-damage-drone-jobs-future/), [UAS Vision](https://www.uasvision.com/2019/04/17/researchers-use-ai-drones-to-detect-road-damage/), [Import AI](https://jack-clark.net/2019/04/22/import-ai-143-predicting-car-accident-risks-by-looking-at-the-houses-people-live-in-why-data-matters-as-much-as-compute-and-using-capsule-networks-to-generate-synthetic-data/), [Impact Lab](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [US Breaking News](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [PCNewsBuzz](https://www.pcnewsbuzz.com/2019/04/16/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), and [Engineering 360](https://insights.globalspec.com/article/11651/team-developing-ai-enabled-drones-for-pothole-crack-detection). (July 07, 2019)<br>
 
 ----
 
@@ -527,27 +527,26 @@ This embedded road surface 3D reconstruction system has been reported by over te
 
 
 
-#### Using DP Towards A Shortest Path Problem-Related Application
+#### &#8226; Using DP Towards a Shortest Path Problem-Related Application [published on ICRA 2019]
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/BiqJxLh_xdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
 
 
 
-#### Real-Time Stereo Vision-Based Lane Detection System [published on Measurement Science and Technology]
-
+#### &#8226; Real-Time Stereo Vision-Based Lane Detection System [published on Measurement Science and Technology]
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/fgriUdy1kv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
 
 
 
-#### Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation
+#### &#8226; Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation [published on IEEE Trans on Image Processing]
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/pypPI7fsctg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
 
 
 
-#### Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
+#### &#8226; Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/s0RiXMsgUc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
@@ -566,7 +565,7 @@ This embedded road surface 3D reconstruction system has been reported by over te
 
 * &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"]() (for undergraduates and postgraduates).
 * &#8226; Rui's lecture material ["Introduction to Autonomous Car Vision"](https://www.youtube.com/watch?v=k2tmUzZ0DAU&t=203s%5D) has been used for the [Computer Vision, Machine Learning, and Autonomous Systems Web Lecture Series](http://icarus.csd.auth.gr/cvml-web-lecture-series/).
-* &#8226; Lectures for the [2019 short course on deep learning & computer vision for autonomous systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [August 26, 2019 -- August 27, 2019]
+* &#8226; Lectures for the [2019 Short Course on Deep Learning & Computer Vision for Autonomous Systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [August 26, 2019 -- August 27, 2019]
 
 
 
@@ -628,7 +627,6 @@ This embedded road surface 3D reconstruction system has been reported by over te
 ### ATG Robotics 
 
 #### News 
-
 * &#8226; [超低空5G网络资源全自主巡检数字化服务商“反重力智能”获千万级天使轮融资](https://www.toutiao.com/i6893008382131700238/?tt_from=weixin&utm_campaign=client_shar&timestamp=1604903886&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&use_new_style=1&req_id=2020110914380601014502601825087E88&group_id=6893008382131700238), 今日头条. [November 09, 2020]
 * &#8226; [独家5G网联无人机基站巡检服务供应商“反重力智能”获千万级天使轮融资 东方嘉富领投](https://dy.163.com/article/FR08ET4K0550B1DU.html), 网易. [November 09, 2020]
 * &#8226; [“反重力智能”获千万级天使轮融资](http://finance.eastmoney.com/a/202011091693971762.html), 东方财富网. [November 09, 2020]
