@@ -128,9 +128,9 @@
 
 .highlight { background-color: #f8f8f8; }
 
-body { background-color: #fff; padding: 30px; font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 500; font-family: "Georgia"; font-size: 11.3pt; }
+body { background-color: #fff; padding: 25px; font: 12px/1.4 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 500; font-family: "Georgia"; font-size: 12pt; }
 
-h1, h2, h3, h4, h5, h6 { color: #222; margin: 0 0 10px; }
+h1, h2, h3, h4, h5, h6 { color: #222; margin: 0 0 20px; }
 
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
@@ -146,7 +146,7 @@ a { color: #267CB9; text-decoration: none; }
 
 a:hover, a:focus { color: #069; font-weight: bold; }
 
-a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
+a small { font-size: 11px; color: #777; display: block; }
 
 a:hover small { color: #777; }
 
@@ -208,6 +208,6 @@ ul { list-style: none; }
 
 .navmenu ul li { padding: 10px 0; padding-left: 20px; }
 
-.navmenu ul li a { text-decoration: none; position: relative; color: #606060; line-height: 1rem; }
+.navmenu ul li a { text-decoration: none; position: relative; color: #606060; }
 
 .navmenu ul li a.active { font-weight: 560; }
