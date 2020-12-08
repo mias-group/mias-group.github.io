@@ -256,49 +256,9 @@ font-weight: 560;
 
 
 
-// @media print, screen and (max-width: 720px) {
-//   body {
-//     word-wrap:break-word;
-//   }
 
-//   header {
-//     padding:0;
-//   }
-
-//   header ul, header p.view {
-//     position:static;
-//   }
-
-//   pre, code {
-//     word-wrap:normal;
-//   }
+// @media print, screen{
+// html {        
+//   font-size: 10.0px;
+// }    
 // }
-
-// @media print, screen and (max-width: 720px) {
-//   body {
-//     padding:0px;
-//   }
-
-//   // .downloads {
-//   //   width:99%;
-//   // }
-
-//   // .downloads li, .downloads li + li + li {
-//   //   width:33%;
-//   // }
-// }
-
-// @media print, screen {
-//   body {
-//     padding:0.0in;
-//     font-size:10pt;
-//     color:#444;
-//   }
-// }
-
-
-@media print, screen{
-html {        
-  font-size: 10.0px;
-}    
-}
