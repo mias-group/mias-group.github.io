@@ -303,23 +303,23 @@ font-weight: 560;
 
 
 
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
+// @media print, screen and (max-width: 720px) {
+//   body {
+//     word-wrap:break-word;
+//   }
 
-  header {
-    padding:0;
-  }
+//   header {
+//     padding:0;
+//   }
 
-  header ul, header p.view {
-    position:static;
-  }
+//   header ul, header p.view {
+//     position:static;
+//   }
 
-  pre, code {
-    word-wrap:normal;
-  }
-}
+//   pre, code {
+//     word-wrap:normal;
+//   }
+// }
 
 
 @media only screen and (min-width: 980px)
@@ -328,6 +328,7 @@ font-weight: 560;
   {
    display:none;
   }
+
 }
 
 
