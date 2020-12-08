@@ -208,6 +208,6 @@ ul { list-style: none; }
 
 .navmenu ul li { padding: 8px 0; padding-left: 20px; }
 
-.navmenu ul li a { position: relative; color: #606060; }
+.navmenu ul li a { position: relative; color: #606060; line-height: 1rem; }
 
 .navmenu ul li a.active { font-weight: 800; }
