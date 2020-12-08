@@ -52,8 +52,8 @@ Rui’s research interests include computer vision, robotics, image/signal proce
 <br>
 Yi-Ge, E., <strong>Fan, R.</strong>, Liu, Z. and Shen, Z.
 <br>
-<a href="https://arxiv.org/pdf/2011.14462.pdf">pdf</a> /
-<a href="./bib/wacv2021_ge.html">bibtex</a> 
+<a href="https://arxiv.org/pdf/2011.14462.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/wacv2021_ge.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> 
 <br>
 <p></p>
 
@@ -78,11 +78,11 @@ Yi-Ge, E., <strong>Fan, R.</strong>, Liu, Z. and Shen, Z.
 <br>
 Wang, H., <strong>Fan, R.</strong> and Liu, M.
 <br>
-<a href="https://arxiv.org/pdf/2011.02156.pdf">pdf</a> /
-<a href="./bib/corl2020_wang.html">bibtex</a> /
-<a href="https://sites.google.com/view/cot-amflow">webpage</a> /
-<a href="https://github.com/hlwang1124/CoT-AMFlow">code</a> /
-<a href="https://youtu.be/LzL7QZhwFjE">demo</a>
+<a href="https://arxiv.org/pdf/2011.02156.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/corl2020_wang.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://sites.google.com/view/cot-amflow"><i class="fa fa-external-link"></i> webpage</a> /
+<a href="https://github.com/hlwang1124/CoT-AMFlow"><i class="fa fa-github"></i> code</a> /
+<a href="https://youtu.be/LzL7QZhwFjE"><i class="fa fa-film"></i> demo</a>
 <br>
 <p></p>
 
@@ -104,9 +104,9 @@ Wang, H., <strong>Fan, R.</strong> and Liu, M.
 <br>
 Bhutta, M.U.M., Kuse, M., <strong>Fan, R.</strong>, Liu, Y. and Liu, M.
 <br>
-<a href="./pdf/tcyb2020_usman.pdf">pdf</a> /
-<a href="./bib/tcyb2020_usman.html">bibtex</a> /
-<a href="https://www.youtube.com/watch?v=AatjVz5ysV8">demo</a>
+<a href="./pdf/tcyb2020_usman.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/tcyb2020_usman.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://www.youtube.com/watch?v=AatjVz5ysV8"><i class="fa fa-film"></i> demo</a>
 <br>
 <p></p>
 
@@ -127,8 +127,8 @@ Bhutta, M.U.M., Kuse, M., <strong>Fan, R.</strong>, Liu, Y. and Liu, M.
 <br>
 Wang, H.*, <strong>Fan, R.</strong>*, Sun, Y. and Liu, M.
 <br>
-<a href="https://arxiv.org/pdf/2008.11383.pdf">pdf</a> /
-<a href="./bib/iros2020_wang.html">bibtex</a> 
+<a href="https://arxiv.org/pdf/2008.11383.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/iros2020_wang.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> 
 <br>
 <p></p>
 
@@ -150,11 +150,11 @@ Wang, H.*, <strong>Fan, R.</strong>*, Sun, Y. and Liu, M.
 Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., Liu, M., Pitas, I. and <strong>Fan, R.</strong>&#9993;
 
 <br>
-<a href="https://arxiv.org/pdf/2008.09305.pdf">pdf</a> /
-<a href="./bib/eccvw2020_wang.html">bibtex</a> /
-<a href="https://sites.google.com/view/atg-pvd">webpage</a> /
-<a href="https://sites.google.com/view/atg-pvd/dataset?authuser=0">dataset</a> /
-<a href="https://www.youtube.com/watch?v=byfa7-fT4j4&feature=emb_logo">demo</a>
+<a href="https://arxiv.org/pdf/2008.09305.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/eccvw2020_wang.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://sites.google.com/view/atg-pvd"><i class="fa fa-external-link"></i> webpage</a> /
+<a href="https://sites.google.com/view/atg-pvd/dataset?authuser=0"><i class="fa fa-database"></i> dataset</a> /
+<a href="https://www.youtube.com/watch?v=byfa7-fT4j4&feature=emb_logo"><i class="fa fa-film"></i> demo</a>
 <br>
 <p></p>
 
@@ -177,11 +177,11 @@ Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., 
 <strong>Fan, R.</strong>*, Wang, H.*, Bocus, M.J. and Liu, M.;
 
 <br>
-<a href="https://arxiv.org/pdf/2008.06840.pdf">pdf</a> /
-<a href="./bib/eccvw2020_fan.html">bibtex</a> /
-<a href="https://sites.google.com/view/pothole-600">webpage</a> /
-<a href="https://github.com/hlwang1124/AAFramework">code</a> /
-<a href="https://sites.google.com/view/pothole-600/dataset?authuser=0">dataset</a>
+<a href="https://arxiv.org/pdf/2008.06840.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/eccvw2020_fan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://sites.google.com/view/pothole-600"><i class="fa fa-external-link"></i> webpage</a> /
+<a href="https://github.com/hlwang1124/AAFramework"><i class="fa fa-github"></i> code</a> /
+<a href="https://sites.google.com/view/pothole-600/dataset?authuser=0"><i class="fa fa-database"></i> dataset</a>
 <br>
 <p></p>
 
@@ -204,12 +204,12 @@ Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., 
 <strong>Fan, R.</strong>*, Wang, H.*, Cai, P. and Liu, M.
 
 <br>
-<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf">pdf</a> /
-<a href="./bib/eccv2020_fan.html">bibtex</a> /
-<a href="https://sites.google.com/view/sne-roadseg/">webpage</a> /
-<a href="https://github.com/hlwang1124/SNE-RoadSeg">code</a> /
-<a href="https://sites.google.com/view/sne-roadseg/dataset?authuser=0">dataset</a> /
-<a href="https://www.youtube.com/watch?v=wWrZhDuh6xc&feature=emb_logo">demo</a>
+<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/eccv2020_fan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://sites.google.com/view/sne-roadseg/"><i class="fa fa-external-link"></i> webpage</a> /
+<a href="https://github.com/hlwang1124/SNE-RoadSeg"><i class="fa fa-github"></i> code</a> /
+<a href="https://sites.google.com/view/sne-roadseg/dataset?authuser=0"><i class="fa fa-database"></i> dataset</a> /
+<a href="https://www.youtube.com/watch?v=wWrZhDuh6xc&feature=emb_logo"><i class="fa fa-film"></i> demo</a>
 <br>
 <p></p>
 
@@ -233,10 +233,10 @@ Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., 
 Yuan, W., <strong>Fan, R.</strong>, Wang, M.Y. and Chen, Q.
 
 <br>
-<a href="./pdf/ral2020_yuan.pdf">pdf</a> /
-<a href="./bib/ral2020_yuan.html">bibtex</a> /
-<a href="https://github.com/weihaosky/MFuseNet">code</a> /
-<a href="https://www.youtube.com/watch?v=_0E3nAUW6f0">demo</a>
+<a href="./pdf/ral2020_yuan.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/ral2020_yuan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://github.com/weihaosky/MFuseNet"><i class="fa fa-github"></i> code</a> /
+<a href="https://www.youtube.com/watch?v=_0E3nAUW6f0"><i class="fa fa-film"></i> demo</a>
 <br>
 <p></p>
 
@@ -261,9 +261,9 @@ Yuan, W., <strong>Fan, R.</strong>, Wang, M.Y. and Chen, Q.
 <strong>Fan, R.</strong> and Liu, M.
 
 <br>
-<a href="./pdf/tits2019_fan.pdf">pdf</a> /
-<a href="./bib/tits2019_fan.html">bibtex</a> /
-<a href="https://github.com/ruirangerfan/unsupervised_disparity_map_segmentation">code</a>
+<a href="./pdf/tits2019_fan.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/tits2019_fan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://github.com/ruirangerfan/unsupervised_disparity_map_segmentation"><i class="fa fa-github"></i> code</a>
 <br>
 <p></p>
 
@@ -290,10 +290,10 @@ Yuan, W., <strong>Fan, R.</strong>, Wang, M.Y. and Chen, Q.
 <strong>Fan, R.</strong>, Ozgunalp, U., Hosking, B., Liu, M. and Pitas, I.
 
 <br>
-<a href="./pdf/tip2019_fan.pdf">pdf</a> /
-<a href="./bib/tip2019_fan.html">bibtex</a> /
-<a href="https://github.com/ruirangerfan/stereo_pothole_datasets">dataset</a> /
-<a href="https://ieeexplore.ieee.org/abstract/document/8972965">supp</a>
+<a href="./pdf/tip2019_fan.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/tip2019_fan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://github.com/ruirangerfan/stereo_pothole_datasets"><i class="fa fa-database"></i> dataset</a> /
+<a href="https://ieeexplore.ieee.org/abstract/document/8972965"><i class="fa fa-file-zip-o"></i> supp</a>
 <br>
 <p></p>
 
@@ -321,9 +321,9 @@ Yuan, W., <strong>Fan, R.</strong>, Wang, M.Y. and Chen, Q.
 Jiao, J., Yu, Y., Liao, Q., Ye, H., <strong>Fan, R.</strong> and Liu, M.
 
 <br>
-<a href="./pdf/iros2019_jiao.pdf">pdf</a> /
-<a href="./bib/iros2019_jiao.html">bibtex</a> /
-<a href="https://github.com/ram-lab/MLC">code</a> 
+<a href="./pdf/iros2019_jiao.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/iros2019_jiao.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://github.com/ram-lab/MLC"><i class="fa fa-github"></i> code</a> 
 <br>
 <p></p>
 
@@ -350,8 +350,8 @@ Jiao, J., Yu, Y., Liao, Q., Ye, H., <strong>Fan, R.</strong> and Liu, M.
 Jiao, J., <strong>Fan, R.</strong>, Ma, H. and Liu, M.
 
 <br>
-<a href="./pdf/icra2019_jiao.pdf">pdf</a> /
-<a href="./bib/icra2019_jiao.html">bibtex</a>
+<a href="./pdf/icra2019_jiao.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/icra2019_jiao.html"><i class="fa fa-sticky-note-o"></i> bibtex</a>
 <p></p>
 
 </td>
@@ -376,10 +376,10 @@ Jiao, J., <strong>Fan, R.</strong>, Ma, H. and Liu, M.
 <strong>Fan, R.</strong>&#9993;, Jiao, J., Pan, J., Huang, H., Shen, S. and Liu, M.
 
 <br>
-<a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Fan_Real-Time_Dense_Stereo_Embedded_in_a_UAV_for_Road_Inspection_CVPRW_2019_paper.pdf">pdf</a> /
-<a href="./bib/cvprw2019_fan.html">bibtex</a> /
-<a href="https://drive.google.com/file/d/1lEA-wawzHpsNdeIIKriaiHKZu2zyFSGP/view">dataset</a> /
-<a href="https://www.youtube.com/watch?v=_-YmlxojVMI&t=61s">demo</a> 
+<a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Fan_Real-Time_Dense_Stereo_Embedded_in_a_UAV_for_Road_Inspection_CVPRW_2019_paper.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/cvprw2019_fan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://drive.google.com/file/d/1lEA-wawzHpsNdeIIKriaiHKZu2zyFSGP/view"><i class="fa fa-database"></i> dataset</a> /
+<a href="https://www.youtube.com/watch?v=_-YmlxojVMI&t=61s"><i class="fa fa-film"></i> demo</a> 
 <br>
 <p></p>
 
@@ -407,9 +407,9 @@ Jiao, J., <strong>Fan, R.</strong>, Ma, H. and Liu, M.
 <strong>Fan, R.</strong>&#9993;, Ai, X. and Dahnoun, N.
 
 <br>
-<a href="./pdf/tip2018_fan.pdf">pdf</a> /
-<a href="./bib/tip2018_fan.html">bibtex</a> /
-<a href="https://github.com/ruirangerfan/road_surface_3d_reconstruction_datasets">dataset</a> 
+<a href="./pdf/tip2018_fan.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/tip2018_fan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://github.com/ruirangerfan/road_surface_3d_reconstruction_datasets"><i class="fa fa-database"></i> dataset</a> 
 <br>
 <p></p>
 
@@ -436,9 +436,9 @@ Jiao, J., <strong>Fan, R.</strong>, Ma, H. and Liu, M.
 Ozgunalp, U., <strong>Fan, R.</strong>, Ai, X. and Dahnoun, N.
 
 <br>
-<a href="./pdf/tits2016_umar.pdf">pdf</a> /
-<a href="./bib/tits2016_umar.html">bibtex</a> /
-<a href="https://www.youtube.com/watch?v=s0RiXMsgUc8">demo</a> 
+<a href="./pdf/tits2016_umar.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./bib/tits2016_umar.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://www.youtube.com/watch?v=s0RiXMsgUc8"><i class="fa fa-film"></i> demo</a> 
 <br>
 <p></p>
 
@@ -563,7 +563,7 @@ Our embedded road surface 3D reconstruction system has been reported by over ten
 ## <a name="teaching">Teaching</a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-* &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"](https://arxiv.org/pdf/2012.03194.pdf) (for undergraduates and postgraduates).
+* &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"<i class="fa fa-book"></i>](https://arxiv.org/pdf/2012.03194.pdf) (for undergraduates and postgraduates).
 * &#8226; Rui's lecture material ["Introduction to Autonomous Car Vision"](https://www.youtube.com/watch?v=k2tmUzZ0DAU&t=203s%5D) has been used for the [Computer Vision, Machine Learning, and Autonomous Systems Web Lecture Series](http://icarus.csd.auth.gr/cvml-web-lecture-series/).
 * &#8226; Lectures for the [2019 Short Course on Deep Learning & Computer Vision for Autonomous Systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [August 26, 2019 -- August 27, 2019]
 
@@ -601,11 +601,12 @@ Our embedded road surface 3D reconstruction system has been reported by over ten
 * &#8226; Best Student Paper: Faster-than-real-time linear lane detection implementation using SoC DSP TMS320C6678, _2016 IEEE International Conference on Imaging Systems and Techniques (IST)_.
 
 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})<br>
+
+
+
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
 <br>
-
-
-
+<br>
 
 
 
