@@ -206,7 +206,7 @@ ul { list-style: none; }
 
 .navmenu ul { padding-left: 0px; position: relative; }
 
-.navmenu ul li { padding: 8px 0; padding-left: 20px; }
+.navmenu ul li { padding: 10px 0; padding-left: 20px; }
 
 .navmenu ul li a { text-decoration: none; position: relative; color: #606060; }
 
