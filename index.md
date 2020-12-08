@@ -152,7 +152,7 @@ Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., 
 <br>
 <a href="https://arxiv.org/pdf/2008.09305.pdf">pdf</a> /
 <a href="./bib/eccvw2020_wang.html">bibtex</a> /
-<a href="https://sites.google.com/view/atg-pvd">project page</a> /
+<a href="https://sites.google.com/view/atg-pvd">webpage</a> /
 <a href="https://sites.google.com/view/atg-pvd/dataset?authuser=0">dataset</a> /
 <a href="https://www.youtube.com/watch?v=byfa7-fT4j4&feature=emb_logo">demo</a>
 <br>
@@ -483,7 +483,7 @@ Ozgunalp, U., <strong>Fan, R.</strong>, Ai, X. and Dahnoun, N.
 
 </tbody>
 </table>
-*&nbsp; Equal contributions 
+*&nbsp; Equal Contribution 
 &nbsp; &nbsp; &nbsp;
 &#9993;&nbsp;Corresponding Author
 
@@ -563,7 +563,7 @@ Our embedded road surface 3D reconstruction system has been reported by over ten
 ## <a name="teaching">Teaching</a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-* &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"]() (for undergraduates and postgraduates).
+* &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"](https://arxiv.org/pdf/2012.03194.pdf) (for undergraduates and postgraduates).
 * &#8226; Rui's lecture material ["Introduction to Autonomous Car Vision"](https://www.youtube.com/watch?v=k2tmUzZ0DAU&t=203s%5D) has been used for the [Computer Vision, Machine Learning, and Autonomous Systems Web Lecture Series](http://icarus.csd.auth.gr/cvml-web-lecture-series/).
 * &#8226; Lectures for the [2019 Short Course on Deep Learning & Computer Vision for Autonomous Systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [August 26, 2019 -- August 27, 2019]
 
