@@ -222,3 +222,4 @@ ul { list-style: none; }
   header { padding: 0; }
   header ul, header p.view { position: static; }
   pre, code { word-wrap: normal; } }
+@media only screen and (min-width: 980px) { .mobileSpecific { display: none; } }

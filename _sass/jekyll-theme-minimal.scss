@@ -321,6 +321,16 @@ font-weight: 560;
   }
 }
 
+
+@media only screen and (min-width: 980px)
+{
+  .mobileSpecific
+  {
+   display:none;
+  }
+}
+
+
 // @media print, screen and (max-width: 720px) {
 //   body {
 //     padding:15px;
