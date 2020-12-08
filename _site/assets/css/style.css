@@ -211,5 +211,3 @@ ul { list-style: none; }
 .navmenu ul li a { text-decoration: none; position: relative; color: #606060; line-height: 1rem; }
 
 .navmenu ul li a.active { font-weight: 560; }
-
-@media only screen and (min-width: 980px) { .mobileSpecific { display: none; } }
