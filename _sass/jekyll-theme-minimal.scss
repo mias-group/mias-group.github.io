@@ -4,39 +4,52 @@
 body {
   background-color: #fff;
   padding:50px;
+  // margin-right: 200px;
+  // margin-left: 00px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-weight:400;
+  font-weight:500;
+  font-family: "Georgia";
+  font-size: 12pt;
+
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 25px;
+  
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+  // line-height:1.0;
 }
 
+
 h1, h2, h3 {
-  line-height:1.1;
+  line-height:1.0;
 }
 
 h1 {
-  font-size:28px;
+  font-size:21px;
+  text-align: left;
 }
 
 h2 {
   color:#393939;
+  // text-align: right;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
+  // text-align: left;
 }
 
 a {
   color:#267CB9;
   text-decoration:none;
+  
 }
 
 a:hover, a:focus {
@@ -56,7 +69,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:900px;
+  width:920px;
   margin:0 auto;
 }
 
@@ -79,6 +92,7 @@ pre {
   border:1px solid #e5e5e5;
   overflow-x: auto;
 }
+
 
 table {
   width:100%;
@@ -195,6 +209,84 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+ul{
+  list-style: none;
+}
+
+.navmenu {
+  position: relative;
+  top: 50%;
+  transform: translateY(0%);
+}
+
+.navmenu ul {
+  padding-left: 0px;
+  position: relative;
+}
+
+// .navmenu ul::after {
+//   content: "";
+//   position: absolute;
+//   width: 2px;
+//   height: calc(90% + 38px);
+//   background: #727272;
+//   top: 0;
+//   left: 0px;
+//   z-index: -1;
+// }
+
+.navmenu ul li {
+padding: 12px 0;
+padding-left: 20px;
+}
+
+.navmenu ul li a {
+text-decoration: none;
+position: relative;
+color: #606060;
+line-height:  1rem;
+
+}
+
+// .navmenu ul li a:before {
+//   content: "";
+//   position: absolute;
+//   width: 18px;
+//   height: 18px;
+//   left: -42px;
+//   top: 50%;
+//   transform: translateY(-50%);
+//   border-radius: 50px;
+//   border: 1px solid #727272;
+// }
+
+.navmenu ul li a.active{
+font-weight: 560;
+}
+
+// .navmenu ul li a.active::before {
+// background: #ffffff;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media print, screen and (max-width: 720px) {
 

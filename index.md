@@ -1,142 +1,646 @@
-## About
+---
+layout: default
+---
 
-<div style="text-align: justify">Rui (Ranger) FAN was born in Inner Mongolia, China in 1993. He received his BEng degree in Automation (Control Science and Engineering) from <a href="https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology">the Harbin Institute of Technology (HIT)</a> in July 2015. Between September 2015 and June 2018, Rui worked towards his Ph.D. degree with <a href="https://en.wikipedia.org/wiki/John_Rarity">Prof. John G. Rarity</a> and <a href="https://research-information.bris.ac.uk/en/persons/naim-dahnoun(b0315f4f-9fdc-4002-9202-dbe2fb679818).html">Dr. Naim Dahnoun</a> in <a href="https://vilab.blogs.bristol.ac.uk/">the Visual Information Lab</a> in the Department of Electrical & Electronic Engineering at <a href="https://www.bristol.ac.uk/">the University of Bristol (UoB)</a>. From July 2018 to February 2020, Rui worked as a Research Associate (Postdoc) with <a href="https://www.ece.ust.hk/eelium">Prof. Ming Liu</a> in <a href="https://www.ram-lab.com/">the Robotics and Multi-Perception Laboratory (RAM-Lab)</a> in <a href="http://ri.ust.hk/">the Robotics Institute (RI)</a> at <a href="https://www.ust.hk/home">the Hong Kong University of Science and Technology (HKUST)</a>. Since February 2020, Rui has been working as a Postdoc Fellow with <a href="https://profiles.ucsd.edu/linda.zangwill">Prof. Linda Zangwill</a> and <a href="https://cseweb.ucsd.edu/~kriegman/">Prof. David J. Kriegman</a> in <a href="https://shileyeye.ucsd.edu/">the Department of Ophthalmology</a> as well as <a href="https://cse.ucsd.edu/">the Department of Computer Science and Engineering</a> at <a href="https://ucsd.edu/">the University of California, San Diego (UCSD)</a>. Furthermore, Rui is also the co-founder and chief scientist of ATG Robotics. Rui’s research interests include computer vision, image/signal processing, and deep learning. </div><br />
-Email: [rui(dot)fan(at)ieee(dot)org](mailto:rui.fan@ieee.org)
 
-----
-****
+## <a name="about">About</a>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+<div style="text-align: justify">Rui (Ranger) FAN [范睿] was born in Inner Mongolia, China in 1993. Rui received his BEng degree in Automation (Control Science and Engineering) from <a href="https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology">the Harbin Institute of Technology (HIT)</a> in July 2015. Between September 2015 and June 2018, Rui worked towards his Ph.D. degree with <a href="https://en.wikipedia.org/wiki/John_Rarity">Prof. John G. Rarity</a> and <a href="https://research-information.bris.ac.uk/en/persons/naim-dahnoun(b0315f4f-9fdc-4002-9202-dbe2fb679818).html">Prof. Naim Dahnoun</a> in <a href="https://vilab.blogs.bristol.ac.uk/">the Visual Information Laboratory (VILab)</a>, the Dept. of Electrical & Electronic Engineering, at <a href="https://www.bristol.ac.uk/">the University of Bristol (UoB)</a>. Rui's Ph.D. thesis title: ''<a href="https://research-information.bris.ac.uk/en/studentTheses/real-time-computer-stereo-vision-for-automotive-applications">Real-Time Computer Stereo Vision for Automotive Applications</a>''. 
+
+<br>
+<br>
+From July 2018 to February 2020, Rui worked as a Research Associate (Postdoc) in <a href="http://ri.ust.hk/">the Robotics Institute (RI)</a>, as well as the Deputy Director of <a href="https://www.ram-lab.com/">the Robotics and Multi-Perception Laboratory (RAM-Lab)</a>, supervised by <a href="https://www.ece.ust.hk/eelium">Prof. Ming Liu</a>, at <a href="https://www.ust.hk/home">the Hong Kong University of Science and Technology (HKUST)</a>. Since February 2020, Rui has been working as a Postdoc Fellow with <a href="https://profiles.ucsd.edu/linda.zangwill">Prof. Linda Zangwill</a> and <a href="https://cseweb.ucsd.edu/~kriegman/">Prof. David J. Kriegman</a> in <a href="https://shileyeye.ucsd.edu/">the Dept. of Ophthalmology</a> and <a href="https://cse.ucsd.edu/">the Dept. of Computer Science and Engineering</a> at <a href="https://ucsd.edu/">the University of California, San Diego (UCSD)</a>. Rui co-founded <a href="http://www.atg-itech.com/">ATG Robotics</a> in July 2019 and has been their chief scientist since then. 
+
+<br>
+<br>
+
+Rui is the General Chair of <a href="https://avvision.xyz/">AVVision</a>. 
+
+
+<br>
+<br>
+
+Rui’s research interests include computer vision, robotics, image/signal processing, and machine/deep learning. </div><br/>
+
+
+
+
+
 ## <a name="featured_publications">Featured Publications</a>
-----
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-### * CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation
 
+
+
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/wacv2021_ge.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Conditional Link Prediction of Category-Implicit Keypoint Detection.</papertitle>
+<!-- <br> -->
+<em>WACV</em>, 2021. (Oral)
+<br>
+Yi-Ge, E., <strong>Fan, R.</strong>, Liu, Z. and Shen, Z.
+<br>
+<a href="https://arxiv.org/pdf/2011.14462.pdf">pdf</a> /
+<a href="./bib/wacv2021_ge.html">bibtex</a> 
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/wang2020cot_front.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation.</papertitle>
+<!-- <br> -->
+<em>CoRL</em>, 2020. (Acceptance rate: 34%)
+<br>
+Wang, H., <strong>Fan, R.</strong> and Liu, M.
+<br>
+<a href="https://arxiv.org/pdf/2011.02156.pdf">pdf</a> /
+<a href="./bib/corl2020_wang.html">bibtex</a> /
+<a href="https://sites.google.com/view/cot-amflow">webpage</a> /
+<a href="https://github.com/hlwang1124/CoT-AMFlow">code</a> /
+<a href="https://youtu.be/LzL7QZhwFjE">demo</a>
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/tcyb2020_usman.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Loop-Box: Multiagent Direct SLAM Triggered by Single Loop Closure for Large-Scale Mapping.</papertitle>
+<br>
+<em>IEEE Trans on Cybernetics (T-Cyb)</em>, 2020. (IF: 11.079)
+<br>
+Bhutta, M.U.M., Kuse, M., <strong>Fan, R.</strong>, Liu, Y. and Liu, M.
+<br>
+<a href="./pdf/tcyb2020_usman.pdf">pdf</a> /
+<a href="./bib/tcyb2020_usman.html">bibtex</a> /
+<a href="https://www.youtube.com/watch?v=AatjVz5ysV8">demo</a>
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/iros2020_wang.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Applying Surface Normal Information in Drivable Area and Road Anomaly Detection for Ground Mobile Robots.</papertitle>
+<em>IROS</em>, 2020.
+<br>
+Wang, H.*, <strong>Fan, R.</strong>*, Sun, Y. and Liu, M.
+<br>
+<a href="https://arxiv.org/pdf/2008.11383.pdf">pdf</a> /
+<a href="./bib/iros2020_wang.html">bibtex</a> 
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/eccvw2020_wang.jpg' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>ATG-PVD: Ticketing Parking Violations on a Drone.</papertitle>
+<em>ECCV Workshop</em>, 2020.
+<br>
+Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., Liu, M., Pitas, I. and <strong>Fan, R.</strong>&#9993;
+
+<br>
+<a href="https://arxiv.org/pdf/2008.09305.pdf">pdf</a> /
+<a href="./bib/eccvw2020_wang.html">bibtex</a> /
+<a href="https://sites.google.com/view/atg-pvd">project page</a> /
+<a href="https://sites.google.com/view/atg-pvd/dataset?authuser=0">dataset</a> /
+<a href="https://www.youtube.com/watch?v=byfa7-fT4j4&feature=emb_logo">demo</a>
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/eccvw2020_fan.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation.</papertitle>
+<em>ECCV Workshop</em>, 2020.
+<br>
+<strong>Fan, R.</strong>*, Wang, H.*, Bocus, M.J. and Liu, M.;
+
+<br>
+<a href="https://arxiv.org/pdf/2008.06840.pdf">pdf</a> /
+<a href="./bib/eccvw2020_fan.html">bibtex</a> /
+<a href="https://sites.google.com/view/pothole-600">webpage</a> /
+<a href="https://github.com/hlwang1124/AAFramework">code</a> /
+<a href="https://sites.google.com/view/pothole-600/dataset?authuser=0">dataset</a>
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/eccv2020_fan.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection.</papertitle>
+<em>ECCV</em>, 2020. (Acceptance rate: 26%)
+<br>
+<strong>Fan, R.</strong>*, Wang, H.*, Cai, P. and Liu, M.
+
+<br>
+<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf">pdf</a> /
+<a href="./bib/eccv2020_fan.html">bibtex</a> /
+<a href="https://sites.google.com/view/sne-roadseg/">webpage</a> /
+<a href="https://github.com/hlwang1124/SNE-RoadSeg">code</a> /
+<a href="https://sites.google.com/view/sne-roadseg/dataset?authuser=0">dataset</a> /
+<a href="https://www.youtube.com/watch?v=wWrZhDuh6xc&feature=emb_logo">demo</a>
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/ral2020_yuan.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>MFuseNet: Robust Depth Estimation With Learned Multiscopic Fusion.</papertitle>
+<em>RAL with ICRA</em>, 2020. 
+<br>
+Yuan, W., <strong>Fan, R.</strong>, Wang, M.Y. and Chen, Q.
+
+<br>
+<a href="./pdf/ral2020_yuan.pdf">pdf</a> /
+<a href="./bib/ral2020_yuan.html">bibtex</a> /
+<a href="https://github.com/weihaosky/MFuseNet">code</a> /
+<a href="https://www.youtube.com/watch?v=_0E3nAUW6f0">demo</a>
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/tits2019_fan.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Road Damage Detection Based on Unsupervised Disparity Map Segmentation.</papertitle>
+<em>IEEE Trans on Intelligent Transportation Systems (T-ITS)</em>, 2019. (IF: 6.319)
+<br>
+<strong>Fan, R.</strong> and Liu, M.
+
+<br>
+<a href="./pdf/tits2019_fan.pdf">pdf</a> /
+<a href="./bib/tits2019_fan.html">bibtex</a> /
+<a href="https://github.com/ruirangerfan/unsupervised_disparity_map_segmentation">code</a>
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/tip2019_fan.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Pothole Detection Based on Disparity Transformation and Road Surface Modeling.</papertitle>
+<em>IEEE Trans on Image Processing (T-IP)</em>, 2019. (IF: 9.34)
+<br>
+<strong>Fan, R.</strong>, Ozgunalp, U., Hosking, B., Liu, M. and Pitas, I.
+
+<br>
+<a href="./pdf/tip2019_fan.pdf">pdf</a> /
+<a href="./bib/tip2019_fan.html">bibtex</a> /
+<a href="https://github.com/ruirangerfan/stereo_pothole_datasets">dataset</a> /
+<a href="https://ieeexplore.ieee.org/abstract/document/8972965">supp</a>
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/iros2019_jiao.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Automatic Calibration of Multiple 3D LiDARs in Urban Environments.</papertitle>
+<em>IROS</em>, 2019.
+<br>
+Jiao, J., Yu, Y., Liao, Q., Ye, H., <strong>Fan, R.</strong> and Liu, M.
+
+<br>
+<a href="./pdf/iros2019_jiao.pdf">pdf</a> /
+<a href="./bib/iros2019_jiao.html">bibtex</a> /
+<a href="https://github.com/ram-lab/MLC">code</a> 
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/icra2019_jiao.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Using DP towards a Shortest Path Problem-Related Application.</papertitle>
+<em>ICRA</em>, 2019.
+<br>
+Jiao, J., <strong>Fan, R.</strong>, Ma, H. and Liu, M.
+
+<br>
+<a href="./pdf/icra2019_jiao.pdf">pdf</a> /
+<a href="./bib/icra2019_jiao.html">bibtex</a>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/cvprw2019_fan.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Real-Time Dense Stereo Embedded in a UAV for Road Inspection.</papertitle>
+<em>CVPR Workshop</em>, 2019. 
+<br>
+<strong>Fan, R.</strong>&#9993;, Jiao, J., Pan, J., Huang, H., Shen, S. and Liu, M.
+
+<br>
+<a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Fan_Real-Time_Dense_Stereo_Embedded_in_a_UAV_for_Road_Inspection_CVPRW_2019_paper.pdf">pdf</a> /
+<a href="./bib/cvprw2019_fan.html">bibtex</a> /
+<a href="https://drive.google.com/file/d/1lEA-wawzHpsNdeIIKriaiHKZu2zyFSGP/view">dataset</a> /
+<a href="https://www.youtube.com/watch?v=_-YmlxojVMI&t=61s">demo</a> 
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/tip2018_fan.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation.</papertitle>
+<em>IEEE Trans on Image Processing (T-IP)</em>, 2018. (IF: 9.34)
+<br>
+<strong>Fan, R.</strong>&#9993;, Ai, X. and Dahnoun, N.
+
+<br>
+<a href="./pdf/tip2018_fan.pdf">pdf</a> /
+<a href="./bib/tip2018_fan.html">bibtex</a> /
+<a href="https://github.com/ruirangerfan/road_surface_3d_reconstruction_datasets">dataset</a> 
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+
+<img src='covers/tits2016_umar.png' width=300px>
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+
+<papertitle>Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation.</papertitle>
+<em>IEEE Trans on Intelligent Transportation Systems (T-ITS)</em>, 2016. (IF: 6.319)
+<br>
+Ozgunalp, U., <strong>Fan, R.</strong>, Ai, X. and Dahnoun, N.
+
+<br>
+<a href="./pdf/tits2016_umar.pdf">pdf</a> /
+<a href="./bib/tits2016_umar.html">bibtex</a> /
+<a href="https://www.youtube.com/watch?v=s0RiXMsgUc8">demo</a> 
+<br>
+<p></p>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody>
+</table>
+*&nbsp; Equal contributions 
+&nbsp; &nbsp; &nbsp;
+&#9993;&nbsp;Corresponding Author
+
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+<br>
+<br>
+
+## <a name="demo_videos">Demo Videos</a>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+
+#### CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/LzL7QZhwFjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<div style="text-align: justify">In this project, we propose CoT-AMFlow, an unsupervised optical flow estimation approach. In terms of the network architecture, we develop an adaptive modulation network that employs two novel module types, flow modulation modules (FMMs) and cost volume modulation modules (CMMs), to remove outliers in challenging regions. As for the training paradigm, we adopt a co-teaching strategy, where two networks simultaneously teach each other about challenging regions to further improve accuracy. Experimental results on the MPI Sintel, KITTI Flow and Middlebury Flow benchmarks demonstrate that our CoT-AMFlow outperforms all other state-of-the-art unsupervised approaches, while still running in real time. </div><br>
-[1] Wang, H., **Fan R.**, and Liu M., 2020. CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for Unsupervised Optical Flow Estimation. _In **Conference on Robot Learning (CoRL)**_. [[paper]()][[video](https://www.youtube.com/watch?v=LzL7QZhwFjE)][[code](https://github.com/hlwang1124/CoT-AMFlow)]   \***Acceptance rate: 34%**. 
-
 ----
 
 
-### * ATG-PVD: Ticketing Parking Violations on a Drone
 
-<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/byfa7-fT4j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<div style="text-align: justify">This project was supported by ATG Robotics, my co-founded company in Hangzhou, China. In this project, we proposed a novel suspect-and-investigate framework, which can be easily embedded in a drone for automated parking violation detection (PVD). Our proposed framework consists of: 1) SwiftFlow, an efficient and accurate CNN for unsupervised optical flow estimation; 2) Flow-RCNN, a flow-guided CNN for car detection and classification; and 3) an illegally parked car (IPC) candidate investigation module developed based on visual SLAM. Our dataset, containing 4924 images for training and 4398 images for testing, is also publicly available for research purposes. Please kindly cite our paper when using our dataset in your research.</div><br>
-[1] Wang, H.\*, Liu, Y.\*, Huang H.\*, Pan Y.\*, Yu W., Jiang J., Lyu D., Bocus J. M., Liu M., Pitas I., and **Fan R.**, 2020. ATG-PVD: Ticketing Parking Violations on A Drone. _In Proceedings of the **European Conference on Computer Vision (ECCV) Workshops**_. [[paper](https://www.techrxiv.org/articles/preprint/ATG-PVD_Ticketing_Parking_Violations_on_A_Drone/12839156)][[video](https://www.youtube.com/watch?v=byfa7-fT4j4&t=5s)][[dataset](https://sites.google.com/view/atg-pvd/dataset?authuser=0)]   *These authors contributed equally to this work. 
-
+#### ATG-PVD: Ticketing Parking Violations on a Drone
+<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/byfa7-fT4j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
 ----
-### * We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation
-
-<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/iOEkkyfEpBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<div style="text-align: justify">In this project, we first proposed a novel attention aggregation (AA) framework, which takes the advantages of different types of attention modules. In addition, we developed an effective training set augmentation technique based on adversarial domain adaptation, where the synthetic road RGB images and transformed road disparity (or inverse depth) images are generated to enhance the training of semantic segmentation networks. Our dataset and source code are publicly available for research purposes. Please kindly cite our paper when using our dataset/code in your research.</div><br>
-[1] **Fan R.**\*, Wang, H.\*, Bocus J. M., and Liu M., 2020. We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation. _In Proceedings of the **European Conference on Computer Vision (ECCV) Workshops**_. [[paper](https://arxiv.org/pdf/2008.06840.pdf)][[dataset](https://sites.google.com/view/pothole-600/dataset?authuser=0)][[code](https://github.com/hlwang1124/AAFramework)]   *These authors contributed equally to this work.  
 
 
-----
-### * SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
 
+
+
+#### SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/wWrZhDuh6xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<div style="text-align: justify">In this project, we proposed a novel freespace detection approach, referred to as SNE-RoadSeg [1], based on data-fusion semantic driving scene segmentation. Our main contributions include: 1) surface normal estimator (SNE), a novel module capable of inferring surface normal information from dense disparity (or inverse depth) images with high accuracy and efficiency; 2) RoadSeg, a data-fusion CNN architecture capable of extracting and fusing features from both RGB images and the inferred surface normal information; and 3) Ready-to-Drive (R2D), a large-scale synthetic freespace detection dataset (containing 11430 pairs of stereo images and their corresponding depth images and semantic segmentation ground truth), collected under different illumination and weather conditions. </div><br>
-[1] **Fan, R.**\*, Wang, H.*, Cai, P., and Liu, M., 2020. SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection. _In Proceedings of the **European Conference on Computer Vision (ECCV)**_. [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf)][[code](https://sites.google.com/view/sne-roadseg/code?authuser=0)][[video](https://www.youtube.com/watch?v=wWrZhDuh6xc)][[dataset](https://sites.google.com/view/sne-roadseg/dataset?authuser=0)][[results](http://m.cvlibs.net/datasets/kitti/eval_road_detail.php?result=bed2008b97d76d5defb08a5930eadbe461483dd1)]  *These authors contributed equally to this work. 
-<br>\***Acceptance rate: 26%**
-
 ----
-### * Pothole Detection Based on Disparity Transformation and Road Surface Modeling
 
-<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/Pj6TnmZdrjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<div style="text-align: justify">In this project, we developed a robust road pothole detection algorithm [1] based on novel disparity transformation [2] and road surface modeling. Firstly, we utilized our previously published disparity estimation algorithm (PT-SRP) to acquire dense road disparity maps and reconstruct the 3D road geometry. The original disparity maps were transformed to better distinguish between damaged and undamaged road areas. Then, the disparities in the undamaged road areas were modeled by a quadratic surface. By comparing the difference between the actual and modeled disparity maps, the potholes can be successfully detected. We created three datasets including 67 pairs of stereo road images using a ZED stereo camera. Please kindly cite our papers when using our datasets in your research. </div><br>
-[1] **Fan, R.**, Ozgunalp, U., Hosking, B., Liu, M., and Pitas, I., 2019. Pothole Detection Based on Disparity Transformation and Road Surface Modeling. _**IEEE Transactions on Image Processing (T-IP)**_, 29(1), pp.897-908. [[paper](https://ieeexplore.ieee.org/abstract/document/8809907)][[arxiv](https://arxiv.org/pdf/1908.00894.pdf)][[datasets](https://github.com/ruirangerfan/stereo_pothole_datasets)]
-
-[2] **Fan, R.**, Bocus, M. J., and Dahnoun, N., 2018. A novel disparity transformation algorithm for road segmentation. _**Information Processing Letters (IP-L)**_, 140, pp.18-24. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020019018301583)][[arxiv](https://arxiv.org/pdf/1808.02837.pdf)]
-
-----
-### * Real-Time Dense Stereo Embedded in A UAV for Road Inspection
-
+#### Real-Time Dense Stereo Embedded in A UAV for Road Inspection
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/_-YmlxojVMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<div style="text-align: justify">In this project, we designed an efficient and accurate dense stereo vision system and embedded it in a DJI Matrice 100 drone for road inspection [1]. We mounted a ZED stereo camera on the drone to capture stereo road images. These images were then processed on an NVIDIA Jetson TX2 GPU. We created three datasets including 11368 pairs of stereo images. Please kindly cite our paper when using our datasets in your research. </div><br>
-[1] **Fan, R.**, Jiao, J., Pan, J., Huang, H., Shen, S. and Liu, M., 2019. Real-Time Dense Stereo Embedded in A UAV for Road Inspection. In Proceedings of the _**IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops**_. [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Fan_Real-Time_Dense_Stereo_Embedded_in_a_UAV_for_Road_Inspection_CVPRW_2019_paper.pdf)][[video](https://youtu.be/_-YmlxojVMI)][[datasets](https://drive.google.com/file/d/1lEA-wawzHpsNdeIIKriaiHKZu2zyFSGP/view?usp=sharing)]
-
-News: this road surface 3D reconstruction system has been reported by over ten international media agencies, such as [VentureBeat](https://venturebeat.com/2019/04/15/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [Diamandis](https://www.diamandis.com/blog/abundance-insider-apr-19th-2019), [Drobots Company](https://drobotscompany.com/drones-detect-road-damage-drone-jobs-future/), [UAS Vision](https://www.uasvision.com/2019/04/17/researchers-use-ai-drones-to-detect-road-damage/), [Import AI](https://jack-clark.net/2019/04/22/import-ai-143-predicting-car-accident-risks-by-looking-at-the-houses-people-live-in-why-data-matters-as-much-as-compute-and-using-capsule-networks-to-generate-synthetic-data/), [Impact Lab](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [US Breaking News](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [PCNewsBuzz](https://www.pcnewsbuzz.com/2019/04/16/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/) and [Engineering 360](https://insights.globalspec.com/article/11651/team-developing-ai-enabled-drones-for-pothole-crack-detection). (07/07/2019)<br>
+This embedded road surface 3D reconstruction system has been reported by over ten international media agencies, including [VentureBeat](https://venturebeat.com/2019/04/15/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [Diamandis](https://www.diamandis.com/blog/abundance-insider-apr-19th-2019), [Drobots Company](https://drobotscompany.com/drones-detect-road-damage-drone-jobs-future/), [UAS Vision](https://www.uasvision.com/2019/04/17/researchers-use-ai-drones-to-detect-road-damage/), [Import AI](https://jack-clark.net/2019/04/22/import-ai-143-predicting-car-accident-risks-by-looking-at-the-houses-people-live-in-why-data-matters-as-much-as-compute-and-using-capsule-networks-to-generate-synthetic-data/), [Impact Lab](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [US Breaking News](https://theusbreakingnews.com/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/), [PCNewsBuzz](https://www.pcnewsbuzz.com/2019/04/16/researchers-use-drones-to-detect-potholes-cracks-and-other-road-damage/) and [Engineering 360](https://insights.globalspec.com/article/11651/team-developing-ai-enabled-drones-for-pothole-crack-detection). (July 07, 2019)<br>
 
 ----
-### * Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
+
+
+
+
+
+
+#### Using DP Towards A Shortest Path Problem-Related Application
+<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/BiqJxLh_xdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+----
+
+
+
+#### Real-Time Stereo Vision-Based Lane Detection System [published on Measurement Science and Technology]
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/fgriUdy1kv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<div style="text-align: justify">In this project, we proposed three robust multiple lane detection algorithms [1], [2] based on dense vanishing point estimation. Such vanishing points were estimated from dense disparity images using dynamic programming and least squares fitting [3]. The datasets we used are available on the KITTI benchmark. We will be happy if you cite us: </div><br>
-[1] Ozgunalp, U., **Fan, R.**, Ai, X. and Dahnoun, N., 2016. Multiple lane detection algorithm based on novel dense vanishing point estimation. _**IEEE Transactions on Intelligent Transportation Systems (T-ITS)**_, 18(3), pp.621-632. [[paper](https://ieeexplore.ieee.org/abstract/document/7534770/)][[video](https://www.youtube.com/watch?v=s0RiXMsgUc8)]
-
-[2] **Fan, R.** and Dahnoun, N., 2018. Real-time stereo vision-based lane detection system. _**Measurement Science and Technology (MST)**_, 29(7), p.074005. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/aac163/meta)][[arxiv](https://arxiv.org/pdf/1807.02752.pdf)][[video](https://www.youtube.com/watch?v=45nu_9yE0Ws&list=PLSsD3AXVRPMWuMjiJqAm42Jlo8Zd2QG65)]
-
-[3] Jiao, J., **Fan, R.**, Ma, H., Liu, M., 2019. Using DP Towards A Shortest Path Problem-Related Application, _**International Conference on Robotics and Automation (ICRA)**_, May 20-24,  Montreal, Canada. [[paper](https://ieeexplore.ieee.org/abstract/document/8793603/)][[arxiv](https://arxiv.org/pdf/1903.02765.pdf)][[video](https://www.youtube.com/watch?v=BiqJxLh_xdY)]
-
 ----
-### * Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation
+
+
+
+#### Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/pypPI7fsctg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-
-<div style="text-align: justify">In this paper, we presented a dense subpixel disparity map estimation algorithm for road surface 3D reconstruction [1]. The main contributions include a perspective transformation algorithm as well as an efficient disparity estimation and refinement algorithm. We utilized a ZED stereo camera to create three datasets and made them publicly available for the research purposes. The datasets include 91 pairs of stereo road images. The videos recording our experimental results can be found on my YouTube playlists. Please kindly cite our paper when using our datasets in your research.  </div><br>
-[1] **Fan, R.**, Ai, X. and Dahnoun, N., 2018. Road surface 3D reconstruction based on dense subpixel disparity map estimation. _**IEEE Transactions on Image Processing (T-IP)**_, 27(6), pp.3025-3035. [[paper](https://ieeexplore.ieee.org/abstract/document/8300645)][[arxiv](https://arxiv.org/pdf/1807.01874.pdf)][[video](https://www.youtube.com/watch?v=pypPI7fsctg&list=PLSsD3AXVRPMXuK1PM-5OlhItgNEClCKB3)][[datasets](https://github.com/ruirangerfan/road_surface_3d_reconstruction_datasets)]
-
-
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
-## <a name="services">Services</a>
 ----
-* General Chair of [the Autonomous Vehicle Vision (AVVision) 2021 workshop](https://avvision.xyz/), in conjuction with WACV 2021. 
-* Innovation Program Chair of [the 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
-* Journal Reviewers: the IEEE Transactions on Image Processing (TIP), the IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Intelligent Transportation Systems (TITS), the IEEE Transactions on Intelligent Vehicles (TIV), the IEEE Transactions on Industrial Informatics (TII), the IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH), the IEEE Signal Processing Magazine (SPM), the IEEE Robotics and Automation Letters (RAL), Ophthalmology, Scientfic Reports.
-* Conference Reviewers: the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2018/2020 European Conference on Computer Vision (ECCV), 2021 Winter Conference on Applications of Computer Vision (WACV), 2020 British Machine Vision Conference (BMVC), 2019 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshop, 2020 International Conference on Robotics and Automation (ICRA), 2019/2020 International Conference on Intelligent Robotics and Systems (IROS), 2019 IEEE European Signal Processing Conference (EUSIPCO), 2019/2020 IEEE Intelligent Transportation Systems Conference (ITSC), 2019/2020 IEEE Intelligent Vehicles Symposium (IV), and 2019 IEEE Conference on Robotics and Biomimetics (ROBIO).
 
 
-<!-- * Reviewer of the IEEE Transactions on Image Processing (TIP)
-* Reviewer of the IEEE Transactions on Cybernetics (TCYB)
-* Reviewer of the IEEE Transactions on Intelligent Transportation Systems (TITS)
-* Reviewer of the IEEE Transactions on Intelligent Vehicles (TIV)
-* Reviewer of the IEEE Transactions on Industrial Informatics (TII)
-* Reviewer of the IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH)
-* Reviewer of the IEEE Signal Processing Magazine (SPM)
-* Reviewer of the IEEE Robotics and Automation Letters (RAL)
-* Reviewer of Ophthalmology -->
-<!-- * Program Committee member of the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21). 
-* Reviewer of the 2018 European Conference on Computer Vision (ECCV)
-* Reviewer of the 2020 European Conference on Computer Vision (ECCV)
-* Reviewer of the 2020 British Machine Vision Conference (BMVC)
-* Reviewer of the 2019 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) workshop
-* Reviewer of the 2019 International Conference on Intelligent Robotics and Systems (IROS)
-* Reviewer of the 2020 International Conference on Intelligent Robotics and Systems (IROS)
-* Reviewer of the 2020 IEEE International Conference on Robotics and Automation (ICRA)
-* Reviewer of the 2019 IEEE Intelligent Transportation Systems Conference (ITSC)
-* [Reviewer of the 2020 IEEE Intelligent Transportation Systems Conference (ITSC)](https://www.ieee-itsc2020.org/wp-content/uploads/2020/05/List-of-Reviewers.pdf)
-* Reviewer of the 2019 IEEE Intelligent Vehicles Symposium (IV)
-* Reviewer of the 2020 IEEE Intelligent Vehicles Symposium (IV)
-* Reviewer of the 2019 IEEE European Signal Processing Conference (EUSIPCO) -->
 
+#### Multiple Lane Detection Algorithm Based on Novel Dense Vanishing Point Estimation
 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
-## <a name="lectures_tutorials_seminars">Lectures, Tutorials & Seminars</a>
+<p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/s0RiXMsgUc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ----
-* Lectures for the [short course on deep learning & computer vision for autonomous systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [08/26/2019-08/27/2019]
-* Seminar ["We are driving on the road"](http://www.hitsz.edu.cn/article/view/id-65956.html) at the Harbin Institute of Technology, Shenzhen. [09/18/2019]
+
+
+
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+<br>
+<br>
+
+
+
+## <a name="lectures">Teaching</a>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+* &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"]() (for undergraduates and postgraduates).
+
+
+* &#8226; Rui's lecture material ["Introduction to Autonomous Car Vision"](https://www.youtube.com/watch?v=k2tmUzZ0DAU&t=203s%5D) was used for the [Computer Vision, Machine Learning, and Autonomous Systems Web Lecture Series](http://icarus.csd.auth.gr/cvml-web-lecture-series/), online.
+
+* &#8226; Lectures for the [2019 short course on deep learning & computer vision for autonomous systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [August 26, 2019 -- August 27, 2019]
+
+
+
+
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+<br>
+<br>
+
+
+
+
+
+
+## <a name="tutorials_seminars">Tutorials & Seminars</a>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+* &#8226; Seminar ["We Are Driving on the Road"](http://www.hitsz.edu.cn/article/view/id-65956.html) at the Harbin Institute of Technology, Shenzhen. [September 18, 2019]
+
+
+* &#8226; Seminar ["Computer Vision for Intellignet Road Condition Assessment"](http://automation.sjtu.edu.cn/Show.aspx?info_lb=610&info_id=2731&flag=101) at Shanghai Jiao tong University. [June 3, 2019]
+
+
+
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+<br>
+<br>
+
+
+
+
 ## <a name="awards">Awards</a>
-----
-* Best Paper Finalist: Road Curb Detection Using A Novel Tensor Voting Algorithm. _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_ 
-* Best Student Paper: Faster-than-real-time linear lane detection implementation using SoC DSP TMS320C6678. _2016 IEEE International Conference on Imaging Systems and Techniques (IST)_
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+* &#8226; Best Paper Finalist: Road Curb Detection Using A Novel Tensor Voting Algorithm, _2019 IEEE ROBIO_.
+* &#8226; Best Student Paper: Faster-than-real-time linear lane detection implementation using SoC DSP TMS320C6678, _2016 IEEE IST_.
+
+
+[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})<br>
+<br>
+
+
+
+
+
+
+
+## <a name="services">Services</a>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+* &#8226; General Chair of [the Autonomous Vehicle Vision (AVVision) 2021 workshop](https://avvision.xyz/), in conjuction with [WACV 2021](http://wacv2021.thecvf.com/home). 
+* &#8226; Innovation Program Chair of [the 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
+* &#8226; Journal Reviewers: the IEEE Transactions on Image Processing (TIP), the IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Intelligent Transportation Systems (TITS), the IEEE Transactions on Intelligent Vehicles (TIV), the IEEE Transactions on Industrial Informatics (TII), the IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH), the IEEE Signal Processing Magazine (SPM), the IEEE Robotics and Automation Letters (RAL), Ophthalmology, Scientfic Reports.
+* &#8226; Conference Reviewers: 2021 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2018/2020 European Conference on Computer Vision (ECCV), 2021 Winter Conference on Applications of Computer Vision (WACV), 2020 British Machine Vision Conference (BMVC), 2019 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshop, 2020 International Conference on Robotics and Automation (ICRA), 2019/2020 International Conference on Intelligent Robotics and Systems (IROS), 2019 IEEE European Signal Processing Conference (EUSIPCO), 2019/2020 IEEE Intelligent Transportation Systems Conference (ITSC), 2019/2020 IEEE Intelligent Vehicles Symposium (IV), and 2019 IEEE Conference on Robotics and Biomimetics (ROBIO).
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
+<br>
+<br>
 
+## <a name="entrepreneurship">Entrepreneurship</a>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<!-- [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
-## <a name="news">News</a>
-----
+### ATG Robotics 
 
-[<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}}) -->
+#### News 
 
+* &#8226; [超低空5G网络资源全自主巡检数字化服务商“反重力智能”获千万级天使轮融资](https://www.toutiao.com/i6893008382131700238/?tt_from=weixin&utm_campaign=client_shar&timestamp=1604903886&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&use_new_style=1&req_id=2020110914380601014502601825087E88&group_id=6893008382131700238), **今日头条**. [November 09, 2020]
+* &#8226; [独家5G网联无人机基站巡检服务供应商“反重力智能”获千万级天使轮融资 东方嘉富领投](https://dy.163.com/article/FR08ET4K0550B1DU.html), **网易**. [November 09, 2020]
+* &#8226; [“反重力智能”获千万级天使轮融资](http://finance.eastmoney.com/a/202011091693971762.html), 东方财富网. [November 09, 2020]
+* &#8226; [反重力智能完成1000万人民币天使轮融资](https://m.ebrun.com/409485.html), 亿邦动力网. [November 09, 2020]
+* &#8226; [“反重力智能”获千万级天使轮融资](https://finance.sina.cn/fund/sm/2020-11-09/detail-iiznezxs0922375.d.html), **新浪财经**. [November 09, 2020]
+* &#8226; [超低空5G网络资源全自主巡检数字化服务商“反重力智能”获千万级天使轮融资](https://36kr.com/newsflashes/960619562023297), **36氪**. [November 08, 2020]
+* &#8226; [独家电报\|超低空5G网络资源全自主巡检数字化服务开创者“反重力智能”获千万级天使轮融资](https://www.chinastarmarket.cn/detail/615008), **科创板日报**. [November 08, 2020]
+* &#8226; [反重力智能完成1000万人民币天使轮融资](https://flipboard.com/article/1000/a-cruYQJL9TIClupNTWkOppA%3Aa%3A1736797059-fb00f46046%2Februn.com), FLIPBOARD. [November 08, 2020]
 
