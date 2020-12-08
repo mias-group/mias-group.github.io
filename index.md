@@ -561,14 +561,11 @@ This embedded road surface 3D reconstruction system has been reported by over te
 
 
 
-## <a name="lectures">Teaching</a>
+## <a name="teaching">Teaching</a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 * &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"]() (for undergraduates and postgraduates).
-
-
-* &#8226; Rui's lecture material ["Introduction to Autonomous Car Vision"](https://www.youtube.com/watch?v=k2tmUzZ0DAU&t=203s%5D) was used for the [Computer Vision, Machine Learning, and Autonomous Systems Web Lecture Series](http://icarus.csd.auth.gr/cvml-web-lecture-series/), online.
-
+* &#8226; Rui's lecture material ["Introduction to Autonomous Car Vision"](https://www.youtube.com/watch?v=k2tmUzZ0DAU&t=203s%5D) has been used for the [Computer Vision, Machine Learning, and Autonomous Systems Web Lecture Series](http://icarus.csd.auth.gr/cvml-web-lecture-series/).
 * &#8226; Lectures for the [2019 short course on deep learning & computer vision for autonomous systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [August 26, 2019 -- August 27, 2019]
 
 
@@ -586,10 +583,7 @@ This embedded road surface 3D reconstruction system has been reported by over te
 ## <a name="tutorials_seminars">Tutorials & Seminars</a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-
 * &#8226; Seminar ["We Are Driving on the Road"](http://www.hitsz.edu.cn/article/view/id-65956.html) at the Harbin Institute of Technology, Shenzhen. [September 18, 2019]
-
-
 * &#8226; Seminar ["Computer Vision & Machine Learning for Intelligent Road Condition Assessment"](http://automation.sjtu.edu.cn/Show.aspx?info_lb=610&info_id=2731&flag=101) at Shanghai Jiao tong University. [June 3, 2019]
 
 
@@ -604,8 +598,8 @@ This embedded road surface 3D reconstruction system has been reported by over te
 ## <a name="awards">Awards</a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-* &#8226; Best Paper Finalist: Road Curb Detection Using A Novel Tensor Voting Algorithm, _2019 IEEE ROBIO_.
-* &#8226; Best Student Paper: Faster-than-real-time linear lane detection implementation using SoC DSP TMS320C6678, _2016 IEEE IST_.
+* &#8226; Best Paper Finalist: Road Curb Detection Using a Novel Tensor Voting Algorithm, _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_.
+* &#8226; Best Student Paper: Faster-than-real-time linear lane detection implementation using SoC DSP TMS320C6678, _2016 IEEE International Conference on Imaging Systems and Techniques (IST)_.
 
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})<br>
@@ -619,9 +613,9 @@ This embedded road surface 3D reconstruction system has been reported by over te
 
 ## <a name="services">Services</a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-* &#8226; General Chair of [the Autonomous Vehicle Vision (AVVision) 2021 Workshop](https://avvision.xyz/), in conjuction with [WACV 2021](http://wacv2021.thecvf.com/home). 
+* &#8226; General Chair of [the 1st Autonomous Vehicle Vision (AVVision) Workshop](https://avvision.xyz/), in conjuction with [WACV 2021](http://wacv2021.thecvf.com/home). 
 * &#8226; Innovation Program Chair of [the 2019 IEEE International Conference on Imaging Systems and Techniques (IST)](https://ist2019.ieee-ims.org/organizers)
-* &#8226; Journal Reviewers: the IEEE Transactions on Image Processing (TIP), the IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Intelligent Transportation Systems (TITS), the IEEE Transactions on Intelligent Vehicles (TIV), the IEEE Transactions on Industrial Informatics (TII), the IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH), the IEEE Signal Processing Magazine (SPM), the IEEE Robotics and Automation Letters (RAL), Ophthalmology, Scientfic Reports.
+* &#8226; Journal Reviewers: the IEEE Transactions on Image Processing (TIP), the IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Intelligent Transportation Systems (TITS), the IEEE Transactions on Intelligent Vehicles (TIV), the IEEE Transactions on Industrial Informatics (TII), the IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH), the IEEE Signal Processing Magazine (SPM), the IEEE Robotics and Automation Letters (RAL), Ophthalmology, Scientific Reports.
 * &#8226; Conference Reviewers: 2021 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2018/2020 European Conference on Computer Vision (ECCV), 2021 Winter Conference on Applications of Computer Vision (WACV), 2020 British Machine Vision Conference (BMVC), 2019 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshop, 2020/2021 International Conference on Robotics and Automation (ICRA), 2019/2020 International Conference on Intelligent Robotics and Systems (IROS), 2019 IEEE European Signal Processing Conference (EUSIPCO), 2019/2020 IEEE Intelligent Transportation Systems Conference (ITSC), 2019/2020 IEEE Intelligent Vehicles Symposium (IV), and 2019 IEEE Conference on Robotics and Biomimetics (ROBIO).
 
 [<i class="fa fa-level-up"> Back to top</i>]({{< relref "README.md#top" >}})
