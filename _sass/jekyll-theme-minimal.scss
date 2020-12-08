@@ -276,7 +276,7 @@ font-weight: 560;
 
 @media print, screen and (max-width: 720px) {
   body {
-    padding:15px;
+    padding:0px;
   }
 
   // .downloads {
@@ -288,9 +288,9 @@ font-weight: 560;
   // }
 }
 
-@media print {
+@media print, screen {
   body {
-    padding:0.4in;
+    padding:0.0in;
     font-size:3pt;
     color:#444;
   }
