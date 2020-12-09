@@ -15,7 +15,7 @@ From July 2018 to February 2020, Rui worked as a Research Associate (Postdoc) in
 <br>
 <br>
 
-Rui will join <a href="https://cse.tongji.edu.cn/">the Dept. of Control Science & Engineering</a>, <a href="https://see.tongji.edu.cn/">the School of Electronic & Information Engineering</a>, and <a href="https://srias.tongji.edu.cn/">Shanghai Research Institute for Intelligent Autonomous Systems</a>, at <a href="https://en.tongji.edu.cn/">Tongji University</a>, as a Research Full Professor in Fall 2021. Rui has several Master/Ph.D./Postdoc openings.
+Rui will join <a href="https://cse.tongji.edu.cn/">the Dept. of Control Science & Engineering</a>, <a href="https://see.tongji.edu.cn/">the School of Electronic & Information Engineering</a>, and <a href="https://srias.tongji.edu.cn/">Shanghai Research Institute for Intelligent Autonomous Systems</a>, at <a href="https://en.wikipedia.org/wiki/Tongji_University">Tongji University</a>, as a Research Full Professor in Fall 2021. Rui has several Master/Ph.D./Postdoc openings.
 
 <br>
 <br>
