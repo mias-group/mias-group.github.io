@@ -26,7 +26,7 @@ Rui’s research interests include computer vision, robotics, image/signal proce
 
 
 
-
+<!-- <a href="./projects/tcyb2020-rethinking.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> -->
 
 
 
@@ -44,7 +44,7 @@ Rui’s research interests include computer vision, robotics, image/signal proce
 </td>
 <td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
 <papertitle>Conditional Link Prediction of Category-Implicit Keypoint Detection.</papertitle>
-<em>WACV</em>, 2021. (Oral)
+<em>WACV</em>, 2021.
 <br>
 Yi-Ge, E., <strong>Fan, R.</strong>, Liu, Z. and Shen, Z.
 <br>
