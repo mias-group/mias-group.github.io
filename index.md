@@ -179,7 +179,7 @@ Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., 
 <br>
 <strong>Fan, R.</strong>*, Wang, H.*, Cai, P. and Liu, M.
 <br>
-<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./pdf/eccv2020_fan.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
 <a href="./bib/eccv2020_fan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
 <a href="https://sites.google.com/view/sne-roadseg/"><i class="fa fa-external-link"></i> webpage</a> /
 <a href="https://github.com/hlwang1124/SNE-RoadSeg"><i class="fa fa-github"></i> code</a> /
