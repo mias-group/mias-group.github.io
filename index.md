@@ -113,7 +113,7 @@ Bhutta, M.U.M., Kuse, M., <strong>Fan, R.</strong>, Liu, Y. and Liu, M.
 <br>
 Wang, H.*, <strong>Fan, R.</strong>*, Sun, Y. and Liu, M.
 <br>
-<a href="https://arxiv.org/pdf/2008.11383.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./pdf/iros2020_wang.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
 <a href="./bib/iros2020_wang.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> 
 <br>
 <p></p>
