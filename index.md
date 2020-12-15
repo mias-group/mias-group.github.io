@@ -68,7 +68,7 @@ Yi-Ge, E., <strong>Fan, R.</strong>, Liu, Z. and Shen, Z.
 <br>
 Wang, H., <strong>Fan, R.</strong> and Liu, M.
 <br>
-<a href="https://arxiv.org/pdf/2011.02156.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./pdf/corl2020_wang.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
 <a href="./bib/corl2020_wang.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
 <a href="https://sites.google.com/view/cot-amflow"><i class="fa fa-external-link"></i> webpage</a> /
 <a href="https://github.com/hlwang1124/CoT-AMFlow"><i class="fa fa-github"></i> code</a> /
