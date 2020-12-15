@@ -114,7 +114,8 @@ Bhutta, M.U.M., Kuse, M., <strong>Fan, R.</strong>, Liu, Y. and Liu, M.
 Wang, H.*, <strong>Fan, R.</strong>*, Sun, Y. and Liu, M.
 <br>
 <a href="./pdf/iros2020_wang.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
-<a href="./bib/iros2020_wang.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> 
+<a href="./bib/iros2020_wang.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
+<a href="https://github.com/hlwang1124/NIM"><i class="fa fa-github"></i> code</a>
 <br>
 <p></p>
 </td>
