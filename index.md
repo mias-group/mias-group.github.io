@@ -134,7 +134,7 @@ Wang, H.*, <strong>Fan, R.</strong>*, Sun, Y. and Liu, M.
 <br>
 Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., Liu, M., Pitas, I. and <strong>Fan, R.</strong>&#9993;
 <br>
-<a href="https://arxiv.org/pdf/2008.09305.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./pdf/eccvw2020_wang.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
 <a href="./bib/eccvw2020_wang.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
 <a href="https://sites.google.com/view/atg-pvd"><i class="fa fa-external-link"></i> webpage</a> /
 <a href="https://sites.google.com/view/atg-pvd/dataset?authuser=0"><i class="fa fa-database"></i> dataset</a> /
@@ -157,7 +157,7 @@ Wang, H., Liu, Y., Huang, H., Pan, Y., Yu, W., Jiang, J., Lyu, D., Bocus, M.J., 
 <br>
 <strong>Fan, R.</strong>*, Wang, H.*, Bocus, M.J. and Liu, M.;
 <br>
-<a href="https://arxiv.org/pdf/2008.06840.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
+<a href="./pdf/eccvw2020_fan.pdf"><i class="fa fa-file-pdf-o"></i> pdf</a> /
 <a href="./bib/eccvw2020_fan.html"><i class="fa fa-sticky-note-o"></i> bibtex</a> /
 <a href="https://sites.google.com/view/pothole-600"><i class="fa fa-external-link"></i> webpage</a> /
 <a href="https://github.com/hlwang1124/AAFramework"><i class="fa fa-github"></i> code</a> /
