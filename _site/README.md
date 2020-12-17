@@ -1,12 +1,9 @@
+# Run your Jekyll site locally
+```
+bundle exec jekyll serve
+```
 
-
-
-
-Type: bundle exec jekyll serve 
-to run the code locally
-
-
-Fix loaderror for bundle install 
+Fix **loaderror** for bundle install 
 https://github.com/rubygems/bundler/issues/6227#issuecomment-520171632
 
 

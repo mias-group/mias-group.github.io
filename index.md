@@ -448,7 +448,7 @@ Our embedded road surface 3D reconstruction system has been reported by over ten
 
 
 
-* &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"<i class="fa fa-book"></i>](https://arxiv.org/pdf/2012.03194.pdf) (for undergraduates and postgraduates).
+* &#8226; Book Chapter ["Computer Stereo Vision for Autonomous Driving"<i class="fa fa-book"></i>](./pdf/cvapp2020_fan.pdf) (for undergraduates and postgraduates).
 * &#8226; Rui's lecture material ["Introduction to Autonomous Car Vision"](https://www.youtube.com/watch?v=k2tmUzZ0DAU&t=203s%5D) has been used for the [Computer Vision, Machine Learning, and Autonomous Systems Web Lecture Series](http://icarus.csd.auth.gr/cvml-web-lecture-series/).
 * &#8226; Lectures for the [2019 Short Course on Deep Learning & Computer Vision for Autonomous Systems](http://icarus.csd.auth.gr/dl-and-cv-for-autonomous-cars-2019/), in Thessaloniki, Greece, invited by [Prof. Ioannis Pitas](http://poseidon.csd.auth.gr/LAB_PEOPLE/IPitas.htm) (IEEE Fellow, IEEE Distinguished Lecturer, EURASIP Fellow). [August 26, 2019 -- August 27, 2019]
 
